@@ -623,7 +623,7 @@ Don't even think!  People have died for lettuce.
 There's no point in saving the world if it means losing the moon. -alacrity
 If at first you don't succeed, see if the loser gets anything.
 You cannot argue that a film is bad but that the color is good or vice versa.  The image is a fact, the colors *are* the story.  -- Antonioni
-The face of war has never changed.  Surely it is more logical to heal than to kill.  -- Surak of Vulcan, "The Savage Curtain", stardate 5906.5                  
+The face of war has never changed.  Surely it is more logical to heal than to kill.  -- Surak of Vulcan, "The Savage Curtain", stardate 5906.5
 You know what I haven't had in a while?  A seizure.  -- www.catandgirl.com
 Why bother getting dressed?  You'll just take it all off when you go to bed again.  -- me
 The first rule of intelligent tinkering is to save all the parts. -- Paul Erlich
@@ -656,6 +656,7 @@ The Stone Age did not end for lack of stone, and the Oil Age will end long befor
 There is always more hell that needs raising.  -- Lauren Leveut
 The difference between obvious and oblivious is 51.  -- me
 A sufficiently high level of technology is indistinguishable from magic.  -- Arthur C. Clarke
+A sufficiently high level of techno is indistinguishable from music.  -- me
 I'm sort of a social caterpillar.  -- me
 Did I have a dream, or did the dream have me?  -- Rush
 Posting at the top [writing email comments at the top and leaving the response below] because that's where the cursor happened to be is like shitting in your pants because that's where your asshole happened to be.
@@ -2401,7 +2402,6 @@ The organism will do whatever it damn well pleases.  -- Farmer and Morningstar
 Love is the answer; but while you are waiting for the answer, sex raises some pretty good questions.  -- Woody Allen
 Given its constituency, the only thing I expect to be "open" about [the Open Software Foundation] is its mouth.  -- John Gilmore
 If at first you don't succeed, that's one data point.  -- XKCD #1154
-You climb to reach the summit, but once there, discover that all roads lead down.  -- Stanislaw Lem, "The Cyberiad"
 No house should ever be on any hill or on anything.  It should be of the hill, belonging to it.  -- Frank Lloyd Wright
 Guns don't kill people. Sudden loss of blood to the brain kills people.
 I find your lack of faith disturbing, so I added a unit test.
@@ -2548,3 +2548,17 @@ Great anger and violence can never build a nation.  -- Nelson Mandela
 To be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others.  -- Nelson Mandela
 If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner.  -- Nelson Mandela
 Even the best of friends cannot attend each other's funeral.  -- Kehlog Albran, "The Profit"
+Catholic services are boring because they're all mass and no energy.  -- me
+I don't know where Heisenberg is buried, but I know how fast he's going.  -- me
+The Twenty-first Century baby is destined to be rocked and cradled by electricity, warmed and cooled by electricity, perhaps fathered and mothered by electricity.  Probably the only thing he will be left to do unaided will be to make love.  -- Mrs. John Lane, "The Fortnightly", 1905
+Code written in Haskell is guaranteed to have no side effects because no one will ever run it.  -- XKCD #1312
+DITKA: Double Income, Two Kids, Alpacas.  -- me
+It is worth noting, historically, that downers came in with Nixon.  -- Hunter S. Thompson
+But men love abstract reasoning and neat systematization so much that they think nothing of distorting the truth, closing their eyes and ears to contrary evidence to preserve their logical constructions.  -- Fyodor Dostoevsky, "Notes from Underground"
+Politics is the entertainment division of the military industrial complex.  -- Frank Zappa
+Expertise in Adobe doesn't make you a good designer any more than Microsoft Word skills make you a good writer.  -- Matthew Burton on federal hiring standards
+I am serving my sentence in a tangible prison, while you wait in the intangible prison of the heart.  -- Liu Xiaobo
+Samuel Taylor Coleridge wrote prose and Khans.  -- me
+Omnipotence is most omnipotent when one does nothing.  -- Stanislaw Lem, "The Cyberiad"
+Santa Claz, Our Lady of Generosity  -- me
+It is necessary for the welfare of society that genius should be privileged to utter sedition, to blaspheme, to outrage good taste, to corrupt the youthful mind, and generally to scandalize one's uncles.  -- George Bernard Shaw
