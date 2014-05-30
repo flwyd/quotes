@@ -168,7 +168,7 @@ How gullible are you?  Send me $30 for my home gullibility test today!
 Did you know they took gullible out of the dictionary?
 All he did was string together a lot of old, well-known quotations. -- H.L.  Menken on Shakespeare
 :wq    Oh, wait, we're not in vi anymore, Toto.  -- me
-:wq                                               Don't you just HATE that?
+:wq                                           Don't you just HATE that?
 Oh my god!  They killed Hans Moleman!  You bastards!
 Jesus saves... but Gretzky gets the rebound. -- Daniel Hinojosa
 What the large print giveth, the small print taketh away.
@@ -2584,3 +2584,6 @@ Feelings aren't check engine lights.  You can't just ignore them!  -- Diesel Swe
 39 cents will never take my secrets far enough away.  -- Post Secret
 Once you take away all your imperfections, there's not much left of who you really are.  -- https://www.youtube.com/watch?v=zRlpIkH3b5I
 Like public TV, but no pictures and no muppets.  -- Ira Glass
+Reality must take precedence over public relations, for Mother Nature cannot be fooled.  -- Richard Feynman
+Any good maxim can be attributed to Buddha.  -- Shaolin versus Lama
+A perfect attendance record is too good to be truant.  -- me
