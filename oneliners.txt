@@ -168,7 +168,7 @@ How gullible are you?  Send me $30 for my home gullibility test today!
 Did you know they took gullible out of the dictionary?
 All he did was string together a lot of old, well-known quotations. -- H.L.  Menken on Shakespeare
 :wq    Oh, wait, we're not in vi anymore, Toto.  -- me
-:wq                                               Don't you just HATE that?
+:wq                                           Don't you just HATE that?
 Oh my god!  They killed Hans Moleman!  You bastards!
 Jesus saves... but Gretzky gets the rebound. -- Daniel Hinojosa
 What the large print giveth, the small print taketh away.
@@ -2610,3 +2610,6 @@ It doesn't matter whether his name is Daniel, or Andrew, or Nick, because there'
 My body is a temple and I'm an atheist.  -- @rstevens
 The pine trees were getting it on last night.  I can tell because they spooged all over my car.  -- me
 Patience is a virtue, virtue is a grace, Grace is a little girl with a dirty face.
+Reality must take precedence over public relations, for Mother Nature cannot be fooled.  -- Richard Feynman
+Any good maxim can be attributed to Buddha.  -- Shaolin versus Lama
+A perfect attendance record is too good to be truant.  -- me
