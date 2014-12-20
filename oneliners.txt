@@ -190,7 +190,7 @@ That's not a signature, that's a T-shirt!  -- me on an 18 line ASCII sig
 If you think sex is a pain in the ass, try a different position.
 Oh God, give me the strength to resist temptation, but not yet. - Augustine
 Panties aren't the greatest thing in the world, but they're next to it.
-A rose, by any other name, woulnd't be as romantic. -- me
+A rose, by any other name, wouldn't be as romantic. -- me
 In a world without walls or fences, we don't need Windows or Gates.
 The only thing worse than being witty is not being witty. -- Monty Python's Oscar Wilde sketch
 Your password is like your toothbrush.  You don't give it to anyone else and you change it regularly.  -- a university sysadmin
@@ -1837,7 +1837,7 @@ Little evil would be done in the world if evil never could be done in the name o
 A long idea is the most radical idea in America.  -- U. Utah Phillips
 It must be true because it's pie.  -- Dilbert 3/7/2009
 Canada Post doesn't really charge 32 cents for a stamp.  It's 2 cents for postage and 30 cents for storage.  -- Gerald Regan
-Your kitten photos do not need the same high-availabity system infrastructure as Citibank's transaction databases.  -- bash.org 881704
+Your kitten photos do not need the same high-availability system infrastructure as Citibank's transaction databases.  -- bash.org 881704
 Any word you have to hunt for in a thesaurus is the wrong word.  There are no exceptions to this rule.  -- Stephen King
 The world is full of people whose notion of a satisfactory future is, in fact, a return to the idealised past.  -- Robertson Davies
 I am not a musician, but the pain was instrumental.  -- Saul Williams
@@ -2614,3 +2614,7 @@ Reality must take precedence over public relations, for Mother Nature cannot be 
 Any good maxim can be attributed to Buddha.  -- Shaolin versus Lama
 A perfect attendance record is too good to be truant.  -- me
 Inside the closet you can't tell what color the walls are.  -- Ash Beckham
+To do nothing is sometimes a good remedy.  -- Hippocrates
+The best thesis defense is a good thesis offense.  -- XKCD #1403
+First they came for the verbs, and I said nothing because verbing weirds language.  Then they arrival for the nouns, and I speech nothing because I no verbs.  -- bash.org/?954654
+I started to [make] an apology, but I don't have anything to say I'm sorry for.  -- Jennifer Lawrence
