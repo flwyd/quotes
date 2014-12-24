@@ -765,7 +765,7 @@ sick, sick, sick : Diagnosis of the Beast
 #666 : background-color of the Beast
 Windows 95 - a 32 bit graphical interface to a 16 bit patch on an 8 bit OS for a 4 bit processor by a 2 bit company that can't stand 1 bit of competition.
 Jesus didn't wear a suit, but people listened anyway.  -- me
-If computers are gods they must be Old Testament gods -- lots of rules and no mercy.  -- Joseph Campbell
+I have bought this wonderful machine--a computer.  Now I am rather an authority on gods, so I identified the machine--it seems to me to be an Old Testament god with a lot of rules and no mercy.  -- Joseph Campbell
 You are in a twisty little passage of standards, all conflicting.
 Your mouse pointer has moved.  You must reboot Windows for this change to take effect.
 A lie can travel halfway 'round the world before truth can get its boots on.  -- Mark Twain
@@ -2389,7 +2389,7 @@ If you steal from one author it's plagiarism; if you steal from many it's resear
 Steal this signature.
 If American Idol was on the radio instead of the television, we'd have a much different set of winners.
 Beneath the greatest love is a hurricane of hate.  -- Phil Ochs
-This end should point toward the ground if you want to go to space.  If it starts pointing toward space yo are having a bad problem and you will not go to space today.  -- XKCD #1133
+This end should point toward the ground if you want to go to space.  If it starts pointing toward space you are having a bad problem and you will not go to space today.  -- XKCD #1133
 If a man has a strong faith he can indulge in the luxury of skepticism.  -- Friedrich Nietzsche
 Captain Cook didn't discover Australia--it wasn't lost to us.  -- Aboriginal saying
 When the imitator is perfect, so must be the immitation, and the semblance becomes the truth, the pretense a reality.  -- Stanislaw Lem, "The Cyberiad"
@@ -2618,3 +2618,7 @@ To do nothing is sometimes a good remedy.  -- Hippocrates
 The best thesis defense is a good thesis offense.  -- XKCD #1403
 First they came for the verbs, and I said nothing because verbing weirds language.  Then they arrival for the nouns, and I speech nothing because I no verbs.  -- bash.org/?954654
 I started to [make] an apology, but I don't have anything to say I'm sorry for.  -- Jennifer Lawrence
+Math doesn't know or care what you apply numbers to.  -- Vi Hart
+Functional programmers prefer bikeshedding because yak shaving involves mutable state.  -- me
+AMAZING BUT TRUE: If all the salmon caught in Canada in one year were laid end to end across the Sahara Desert, the smell would be absolutely awful.
+Thanks a lot, Descartes!  -- Vi Hart, "Transcendental Darts"
