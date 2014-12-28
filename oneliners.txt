@@ -1196,7 +1196,7 @@ Do you realize if it weren't for Edison we'd be watching TV by candlelight?  -- 
 Girls marry for love.  Boys marry because of a chronic irritation that causes them to gravitate in the direction of objects with certain curvilinear properties.  -- Ashley Montagu
 Fail again.  Fail better.  -- Samuel Beckett
 All that glitters has a high refractive index.
-I have always wished that my computer would be as easy to use as my telephone.  My wish has come true.  I no longer know how to use my telephone -- Bjarne Stroustrup
+I have always wished that my computer would be as easy to use as my telephone.  My wish has come true.  I no longer know how to use my telephone.  -- Bjarne Stroustrup
 Exceptional human beings must be given exceptional educational treatment, treatment which takes into account their special difficulties.  Further, we can show that despite abnormality, human beings can fulfill their social role within the community, especially if they find understanding, love and guidance.  -- Hans Asperger
 If you write code, write tests.  -- The Way of Testivus
 Don't get stuck on unit testing dogma.  -- The Way of Testivus
@@ -2617,3 +2617,9 @@ Math doesn't know or care what you apply numbers to.  -- Vi Hart
 Functional programmers prefer bikeshedding because yak shaving involves mutable state.  -- me
 AMAZING BUT TRUE: If all the salmon caught in Canada in one year were laid end to end across the Sahara Desert, the smell would be absolutely awful.
 Thanks a lot, Descartes!  -- Vi Hart, "Transcendental Darts"
+I was an early adopter of distrusting Facebook.  -- me
+I'll be proud to show my children the browser plug-in that's the reason they're 9 and not 14.  -- The Onion
+Time is what keeps everything from happening at once.  -- Ray Cummings
+He who refuses to do arithmetic is doomed to talk nonsense.  -- John McCarthy
+Your bedroom floor doesn't stop being dirty just coz you stopped dropping food all over the carpet.  Creating equality is like staying clean: it takes work.  And it's always a work in progress.  -- Vi Hart and Nicky Case
+There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged.  One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world.  The other, of course, involves orcs.
