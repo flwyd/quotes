@@ -2628,3 +2628,7 @@ Time is what keeps everything from happening at once.  -- Ray Cummings
 He who refuses to do arithmetic is doomed to talk nonsense.  -- John McCarthy
 Your bedroom floor doesn't stop being dirty just coz you stopped dropping food all over the carpet.  Creating equality is like staying clean: it takes work.  And it's always a work in progress.  -- Vi Hart and Nicky Case
 There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged.  One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world.  The other, of course, involves orcs.
+Move fast and break user trust.  -- Facebook
+The whole intent of Perl 5's module system was to encourage the growth of Perl culture rather than the Perl core.  -- Larry Wall
+Opinions on abortions are kinda like nipples.  Everyone has them but women's are a little more relevant.  But all you ever see are men's.  -- @AlexisDerikSmit
+The demand for securities which outperform the market exceeds the supply.  -- me
