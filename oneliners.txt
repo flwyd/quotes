@@ -2628,3 +2628,9 @@ Time is what keeps everything from happening at once.  -- Ray Cummings
 He who refuses to do arithmetic is doomed to talk nonsense.  -- John McCarthy
 Your bedroom floor doesn't stop being dirty just coz you stopped dropping food all over the carpet.  Creating equality is like staying clean: it takes work.  And it's always a work in progress.  -- Vi Hart and Nicky Case
 There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged.  One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world.  The other, of course, involves orcs.
+If you have to make a mental effort to avoid the M&Ms when you pass the kitchen, that diminishes your productivity for the rest of the day.  -- Shit HackerNews Says
+ENIAC, the world's first and fastest (at that time) electronic computer, had a full time devops staff of six.  -- Shit HackerNews Says
+Are there practical applications for proving theorems? It seems like it's the full employment act for pencil pushers.  -- Shit HackerNews Says
+ADA compliant bathrooms and wheelchair ramps? Not part of a reasonable MVP.  -- Shit HackerNews Says
+Most of the time my phone is more important than the discardable conversation happening over a meal.  -- Shit HackerNews Says
+This is surprisingly easy because C is largely a small subset of Common Lisp.  -- Shit HackerNews Says
