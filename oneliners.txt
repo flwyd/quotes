@@ -578,7 +578,7 @@ Can you wage war against an abstract noun?  -- Terry Jones
 Jell-O is square, but only if you chill it in a square pan. -- Cat and Girl
 Some of our cavities are better developed than others.  -- Prof. Dubson
 If I was Saddam Hussein, I'd pay a human rights organization to draft an International Declaration to Have My Ass Overthrown!  Cause you know the US wouldn't go along with it.  -- www.mnftiu.cc
-The road to recovery is a rocky one. -- Gov. Jeb Bush, on his daugher's crack addiction
+The road to recovery is a rocky one. -- Gov. Jeb Bush, on his daughter's crack addiction
 Computer games don't affect kids; I mean if Pac-Man affected us as kids, we'd all be running around in darkened rooms, munching magic pills and listening to repetitive electronic music. -- Marcus Brigstocke
 [I was] disenfranchised arguing with dead men who couldn't offer their answers. -- Scott Hadsall
 A musician, an artist, an architect: the man or woman who is not one of these is not a Christian.  -- William Blake
@@ -1210,7 +1210,7 @@ An ugly test is better than no test.  -- The Way of Testivus
 Sometimes, the test justifies the means.  -- The Way of Testivus
 Only fools use no tools.  -- The Way of Testivus
 Good tests fail.  -- The Way of Testivus
-I'm not a vegetarian because I love animals, I'm a vegeterian because I hate plants!  -- The Cube
+I'm not a vegetarian because I love animals, I'm a vegetarian because I hate plants!  -- The Cube
 Seriousness is the only refuge of the shallow.  -- Oscar Wilde
 Primum vivere, deinde philosophari.  (Live first, then philosophize.)
 No visit to a city is complete without a trip the wrong way on a bus. -- me
@@ -1407,7 +1407,7 @@ Optimism is an occupational hazard of programming; feedback is the treatment.  -
 To iterate is human, to recurse divine.  -- L. Peter Deutsch
 The best thing about a boolean is even if you are wrong, you are only off by a bit.  -- Anonymous
 Should array indices start at 0 or 1?  My compromise of 0.5 was rejected without, I thought, proper consideration.  -- Stan Kelly-Bootle
-There are only two kinds of programming languages: those people always bitch about and those nobody uses.  -- Bjarne Stroustrup
+There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.  -- Bjarne Stroustrup
 PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil perpetrated by skilled but perverted professionals.  -- Jon Ribbens
 The use of COBOL cripples the mind; its teaching should therefore be regarded as a criminal offense.  -- E.W. Dijkstra
 It is practically impossible to teach good programming style to students that have had prior exposure to BASIC.  As potential programmers, they are mentally mutilated beyond hope of regeneration.  -- E.W. Dijkstra
@@ -2536,7 +2536,7 @@ Factory-Farm-To-Table Restaurant Proudly Serves Locally Tortured Animals  -- The
 I prefer a Church which is bruised, hurting and dirty because it has been out on the streets, rather than a Church which is unhealthy from being confined and from clinging to its own security.  -- Pope Francis I
 Never laugh at live dragons.  -- Bilbo Baggins
 If you think you're sexy, you probably are.  -- Coco Chanel
-17-Year Cicadas Horrified To Learn About 1/99  -- The Onion
+17-Year Cicadas Horrified To Learn About 9/11  -- The Onion
 Boobs are to men what laser pointers are to cats.  -- @lightplumes
 I wonder what Jane Austen would think of some of her crazier fans, now that she has fans.  -- Hark! A Vagrant #4
 This M.C. Escher album keeps flipping itself over and I can't stop it.  -- @rstevens
@@ -2635,3 +2635,95 @@ You shouldn't let poets lie to you.  -- Bjork
 When God closes a door He goes to the window, opens it, sticks His head out, and yells "I'm as mad as Hell and I'm not going to take this anymore!"  -- me
 What's the most popular software for tracking your spiritual ledger?  Q-Wiccan.  -- me
 Night hides the world, but reveals a universe.  -- Persian proverb
+Move fast and break user trust.  -- Facebook
+The whole intent of Perl 5's module system was to encourage the growth of Perl culture rather than the Perl core.  -- Larry Wall
+Opinions on abortions are kinda like nipples.  Everyone has them but women's are a little more relevant.  But all you ever see are men's.  -- @AlexisDerikSmit
+The demand for securities which outperform the market exceeds the supply.  -- me
+You can count on the teeth of one shark the number of people who've ever served in congress.  -- me
+Laffy Taffy is the Twitter of candy.  -- me
+I can't tell the difference between God and my mental illness.  -- Post Secret
+I've always had a hard time differentiating between people who hate me and people who want to fuck me.  Usually, because, I finally realized, there's often a great deal of overlap.  -- Elisa Albert, "After Birth"
+Colic makes baby Jesus cry.  -- Oglaf
+Peace will come to the world when the people have enough to eat.  -- Momofuku Ando, inventor of instant noodles
+Traditionally, managing the configurations of a large group of computers has meant a series of cabbalistic motions with his forefingers as his deep, hollow voice, now unconcealed by feigned hoarseness, bellowed out the opening words of a terrible formula.  -- thedoomthatcametopuppet.tumblr.com
+There is no I in team, but there is a Cho in psycho.  -- Margaret Cho
+Internet killed the video star but telepathy killed the Internet star.  -- Men Without Hats
+Success is full of bees.  -- Cat and Girl #4891
+Where did Mother Earth soil herself?  In her under plants.  -- me
+No interview of Ginsberg is recommended at any time, in view of his narcotic and sexual proclivities, his psychiatric history and his connections with mass media.  -- FBI's file on Allen Ginsberg
+His activities, while extremely eccentric, apparently lack any specific direction.  -- FBI's file on Allen Ginsberg
+We don't want to stop until everyone is on the platform.  -- David Marcus, Facebook executive
+An economic system centred on the god of money needs to plunder nature to sustain the frenetic rhythm of consumption that is inherent to it.  -- Pope Francis
+America seemed a lot easier when I was looking at it from Honduras.  -- Humans of New York
+Ask me what's the hardest part of investing.  What's the har...  Timing!  -- me
+There is no "I" in "team" but there is a "U" in "hug".  -- Diesel Sweeties #3859
+It's a good thing he lived long enough not to get away with it.  -- The Onion
+You gotta fight / for your right / To ferrrrrrment - The Yeasty Boys -- me
+The golden age of European imperialism was, by the low standards Europeans set for themselves, a golden age of European cooperation as well.  -- Nicholas Danforth
+Data, data everywhere, but not a thought to think.  -- Jesse Sherra
+I guess the lesson is that you need to go door-to-door to be sure you've got your election rigged correctly.  -- Lowering the Bar
+The incoming call said "unknown number," but I don't know how that could be: I've memorized all the digits from 0 to 9.  -- me
+School: be there or be absent.
+There's no "I" in "VOWELS."  -- XKCD #1562
+God doesn't play dice with the universe.  He plays a resource management Eurogame I suck at.  -- Dork Tower 08.09.15
+Politics would be a lot less fun if we only got to believe true stuff.  -- The Onion
+I bought the coolest phone on the planet - but it still only rings as often as my old phone did.  -- PostSecret, Classic Secrets #94
+A disease is anything we think we can cure, identity is everything we can't.  -- Cat and Girl #4962
+We are paying $1,695 to attend a course that authorizes us to recruit others to buy a product--a product which tells us nothing more than what we already know about ourselves.  -- Uncovering The Secret History of Myers-Briggs
+I've always assumed the labels on hot dogs were largely aspirational.
+Ornithography: The study of V shapes in the sky.  -- me
+"The time has come," the Walrus said, and put on Sauron's ring.  -- XKCD #1608
+Use a proposition instead of a preposition if you need something to end a sentence with, baby.  -- XKCD #1608
+I got a toy alien with some assembly required.  When I put it together it said "We come in pieces."  -- me
+If Franz Ferdinand didn't want to be assassinated maybe he shouldn't have written a song called take me out.  -- nichaelforyou
+I always like to wear a stethoscope and white lab coat so if there’s ever a medical emergency i can teach everyone a valuable lesson about judging based on appearance.  -- barackinaroundthechristmastree
+Pasta is worth every penne.  -- barackinaroundthechristmastree
+You can tell a lot by a woman's hands.  For instance, she has hooves?  Horse.  -- micspam
+You've heard of alphabet soup, now get ready for Times New Ramen.  -- mememaster
+If you have to make a mental effort to avoid the M&Ms when you pass the kitchen, that diminishes your productivity for the rest of the day.  -- Shit HackerNews Says
+ENIAC, the world's first and fastest (at that time) electronic computer, had a full time devops staff of six.  -- Shit HackerNews Says
+Are there practical applications for proving theorems? It seems like it's the full employment act for pencil pushers.  -- Shit HackerNews Says
+ADA compliant bathrooms and wheelchair ramps? Not part of a reasonable MVP.  -- Shit HackerNews Says
+Most of the time my phone is more important than the discardable conversation happening over a meal.  -- Shit HackerNews Says
+This is surprisingly easy because C is largely a small subset of Common Lisp.  -- Shit HackerNews Says
+Getting the NSA a present this year? Don't spoil the surprise by buying it online.  -- @HackerNewsOnion
+Recruiter mistakenly hires real ninja.  -- @HackerNewsOnion
+What do you call a troubadour who can play the lute without hands?  No holds bard.  -- me
+The quickest way to end the war is to lose.  -- Megadeth, "Dystopia"
+How did those bourgeois get so petite?  -- Donation Derby #3519
+North Korea is the Donald Trump of nations.  -- @plemur
+The little self-esteem engine that could.  -- me
+Who makes the best Indian tacos?  A Sioux chef.  -- me
+Satan is bad, too, but an invasion of Hell is beyond the competence and self-interest of the US military.  -- The Cube
+You wouldn't really die _of_ anything, in the traditional sense.  You would just stop being biology and start being physics.  -- What If? #141
+It's a bold!  It's a serif!  It's digbatman!  -- me
+"You want me to eat your leek?"  "Aye, scald knave."  "Is this some sort of euphemism?"  "No, it's some sort of allium."  -- Good Tickle Brain, "A Leek and Battery"
+I get horny and want kink, I go looking for it online, and I am then buried in a landslide of creepiness, typos, and aggression.  -- Savage Love letter
+You can play a really believable game of "The Floor is Lava" in Hawaii
+Mallard abduckted.  Fowl play suspected.  -- me
+So tell me... are you a coelaCAN or a coelaCANTH?  -- me
+Castling is the chess equivalent of the quarterback scramble.  -- me
+Nipples are a child's first user interface.  -- me
+I really hope someone has a writing program for inmates called "Prose and Cons."  -- me
+A cat holding a sign that says "9 Lives Matter"  -- me
+John Jacob Jingleheimer Schmidt / 192.168.1.2 / His IP is my IP too  -- me
+My imaginary friend lives at 127.0.0.2  -- me
+In the land of the blinds the Venetian is king.  -- me
+The revolution will not be monetized.
+The process of opening and setting up a new Apple product is delightful and elegant until you get to the Software License Agreement.  -- me
+After the State of the Union comes the Principality of the Dominion.  -- me
+A bear managing mutual funds would probably overinvest in agricultural commodities for fall delivery.  -- me
+Someone should make bumper stickers for New York that say "Maybe honking will help."  -- me
+My cat loves when it's wet outside and dry inside.  When it rains, it purrs.  -- me
+They should have a Tour de Portland where at each stage the couriers pick up a different bulky package for delivery on the next stage.  -- me
+Cat food flavors: beef, chicken, salmon.  Why not mouse, sparrow, or goldfish?  That's what they really want to eat.  -- me
+Cats are both soft and sharp, yin and yang.  -- me
+I'm noodling around on a jazz piece by Sun Ramen.  -- me
+All my exes blocked my textes.  -- me
+If you think stereotypes are bad, wait until you hear how inaccurate my monotypes are.  -- me
+Are slanted fonts called "Italic" because of the tower in Pisa?
+Some say if you're not paying then you are the product.  Yet also: if you get paid for your work then you are the product.  -- me
+Function, method, procedure, routine.  Why don't any programming languages have maneuvers?  -- me
+Thank you bishop, but the king already castled!  -- me
+Thank you Mario, but the princess is the protagonist in her own feature film!  -- me
+Professors gonna profess.  -- me
