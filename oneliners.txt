@@ -2628,6 +2628,13 @@ Time is what keeps everything from happening at once.  -- Ray Cummings
 He who refuses to do arithmetic is doomed to talk nonsense.  -- John McCarthy
 Your bedroom floor doesn't stop being dirty just coz you stopped dropping food all over the carpet.  Creating equality is like staying clean: it takes work.  And it's always a work in progress.  -- Vi Hart and Nicky Case
 There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged.  One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world.  The other, of course, involves orcs.
+Fixing code is easy.  Fixing data is hard.  -- me
+I have a very small mind and must live with it.  -- Edsger W. Dijkstra
+You can't throw a brick at Alan Kay's work without hitting something prescient (although, being prescient, it will have ducked).  -- David Moldawer
+You shouldn't let poets lie to you.  -- Bjork
+When God closes a door He goes to the window, opens it, sticks His head out, and yells "I'm as mad as Hell and I'm not going to take this anymore!"  -- me
+What's the most popular software for tracking your spiritual ledger?  Q-Wiccan.  -- me
+Night hides the world, but reveals a universe.  -- Persian proverb
 Move fast and break user trust.  -- Facebook
 The whole intent of Perl 5's module system was to encourage the growth of Perl culture rather than the Perl core.  -- Larry Wall
 Opinions on abortions are kinda like nipples.  Everyone has them but women's are a little more relevant.  But all you ever see are men's.  -- @AlexisDerikSmit
@@ -2679,6 +2686,14 @@ Are there practical applications for proving theorems? It seems like it's the fu
 ADA compliant bathrooms and wheelchair ramps? Not part of a reasonable MVP.  -- Shit HackerNews Says
 Most of the time my phone is more important than the discardable conversation happening over a meal.  -- Shit HackerNews Says
 This is surprisingly easy because C is largely a small subset of Common Lisp.  -- Shit HackerNews Says
+Getting the NSA a present this year? Don't spoil the surprise by buying it online.  -- @HackerNewsOnion
+Recruiter mistakenly hires real ninja.  -- @HackerNewsOnion
+What do you call a troubadour who can play the lute without hands?  No holds bard.  -- me
+The quickest way to end the war is to lose.  -- Megadeth, "Dystopia"
+How did those bourgeois get so petite?  -- Donation Derby #3519
+North Korea is the Donald Trump of nations.  -- @plemur
+The little self-esteem engine that could.  -- me
+Who makes the best Indian tacos?  A Sioux chef.  -- me
 Satan is bad, too, but an invasion of Hell is beyond the competence and self-interest of the US military.  -- The Cube
 You wouldn't really die _of_ anything, in the traditional sense.  You would just stop being biology and start being physics.  -- What If? #141
 It's a bold!  It's a serif!  It's digbatman!  -- me
@@ -2686,3 +2701,36 @@ It's a bold!  It's a serif!  It's digbatman!  -- me
 Who makes the best Indian tacos?  A Sioux chef.  -- me
 Universe feels zero connection to guy tripping on mushrooms.  -- The Onion
 Ah, crap.  The humans have gone bad.  Better craigslist them.  -- Saturday Morning Breakfast Cereal
+I get horny and want kink, I go looking for it online, and I am then buried in a landslide of creepiness, typos, and aggression.  -- Savage Love letter
+You can play a really believable game of "The Floor is Lava" in Hawaii.  -- me
+Mallard abduckted.  Fowl play suspected.  -- me
+So tell me... are you a coelaCAN or a coelaCANTH?  -- me
+Castling is the chess equivalent of the quarterback scramble.  -- me
+Nipples are a child's first user interface.  -- me
+I really hope someone has a writing program for inmates called "Prose and Cons."  -- me
+A cat holding a sign that says "9 Lives Matter"  -- me
+John Jacob Jingleheimer Schmidt / 192.168.1.2 / His IP is my IP too  -- me
+My imaginary friend lives at 127.0.0.2  -- me
+In the land of the blinds the Venetian is king.  -- me
+The revolution will not be monetized.
+The process of opening and setting up a new Apple product is delightful and elegant until you get to the Software License Agreement.  -- me
+After the State of the Union comes the Principality of the Dominion.  -- me
+A bear managing mutual funds would probably overinvest in agricultural commodities for fall delivery.  -- me
+Someone should make bumper stickers for New York that say "Maybe honking will help."  -- me
+My cat loves when it's wet outside and dry inside.  When it rains, it purrs.  -- me
+They should have a Tour de Portland where at each stage the couriers pick up a different bulky package for delivery on the next stage.  -- me
+Cat food flavors: beef, chicken, salmon.  Why not mouse, sparrow, or goldfish?  That's what they really want to eat.  -- me
+Cats are both soft and sharp, yin and yang.  -- me
+I'm noodling around on a jazz piece by Sun Ramen.  -- me
+All my exes blocked my textes.  -- me
+If you think stereotypes are bad, wait until you hear how inaccurate my monotypes are.  -- me
+Are slanted fonts called "Italic" because of the tower in Pisa?
+Some say if you're not paying then you are the product.  Yet also: if you get paid for your work then you are the product.  -- me
+Function, method, procedure, routine.  Why don't any programming languages have maneuvers?  -- me
+Thank you bishop, but the king already castled!  -- me
+Thank you Mario, but the princess is the protagonist in her own feature film!  -- me
+Professors gonna profess.  -- me
+Sex writers get all the really good religion questions.  I'm tired of dealing with all the questions we get about why evangelicals support a thrice-married misogynist reality-TV star who never goes to church.  -- Mark Oppenheimer
+A d20 ice cube: so you can make a platonic solid that becomes a platonic liquid.  -- me
+When God closes a door He goes to the window, opens it, sticks His head out and yells "I'm as mad as Hell and I'm not going to take this anymore!"  -- me
+I'm into second-order psychedelics.  I don't take drugs myself, but I thoroughly enjoy consuming the output of those who do.  -- me
