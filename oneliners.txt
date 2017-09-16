@@ -1155,7 +1155,7 @@ Capitalism is the astounding belief that the most wickedest of men will do the m
 The stairway to heaven has limited capacity but there's room for everyone on the escalator at Macy's!  -- Cat and Girl #464
 Talent hits a target no one else can hit; Genius hits a target no one else can see.  -- Arthur Schopenhauer
 If it's Earth-like, then it's probably near destruction and of no use to us.  -- The Onion
-Good judgment comes from experience. Experience comes from bad judgment.
+Good judgment comes from experience.  Experience comes from bad judgment.
 I don't want to sell my music.  I'd like to give it away because where I got it, you didn't have to pay for it.  -- Don Van Vliet, aka Captain Beefheart
 A single AK-47 round to the head will pretty much always ruin your day.  -- The Cube
 In latex2e you hack the meta-style file, which contains meta-documentation, meta-code and meta-comments.  -- The Cube
@@ -2084,7 +2084,6 @@ TIME-SENSITIVE MATERIAL.  DO NOT EXPOSE TO TIME.  -- @BitterOldPunk
 Just because something is secure in theory doesn't mean it's secure in practice.  -- Bruce Schneier
 Having a midlife crisis at 40 is awfully presumptuous.  -- Wondermark #653
 Life is a raisin.  Not what you wanted, but still unexpectedly sweet.  -- Cat and Girl #2590
-Good judgment comes from experience.  Experience comes from bad judgment.
 Ignorance more frequently begets confidence than does knowledge.  -- Charles Darwin
 One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.  -- Bertrand Russell
 I have a special place in my heart for ventricles.  -- @plemur
