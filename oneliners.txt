@@ -740,7 +740,7 @@ Route 666 : Highway of the Beast
 i66686 : CPU of the Beast
 666i : BMW of the Beast
 DSM-666 : Diagnostic and Statistical Manual of the Beast
-668 : Next-door neighbor of the Beast 
+668 : Next-door neighbor of the Beast
 Phillips 666 : Gasoline of the Beast
 665 : Older brother of the Beast
 667 : Younger brother of the Beast
@@ -1166,13 +1166,13 @@ Do not do unto others as you would that they should do unto you.  Their tastes m
 Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.  -- Isaac Asimov
 The Constitution gives every American the inalienable right to make a damn fool of himself.  -- John Ciardi
 #From Bruce Schneier Facts -- http://geekz.co.uk/schneierfacts/
-Most people use passwords. Some people use passphrases. Bruce Schneier uses an epic passpoem, detailing the life and works of seven mythical Norse heroes. 
-Bruce Schneier knows Alice and Bob's shared secret. 
+Most people use passwords. Some people use passphrases. Bruce Schneier uses an epic passpoem, detailing the life and works of seven mythical Norse heroes.
+Bruce Schneier knows Alice and Bob's shared secret.
 When Bruce Schneier observes a quantum particle, it remains in the same state until he has finished observing it.
 Vs lbh nfxrq Oehpr Fpuarvre gb qrpelcg guvf, ur'q pehfu lbhe fxhyy jvgu uvf ynhtu.
-Bruce Schneier's secure handshake is so strong, you won't be able to exchange keys with anyone else for days. 
+Bruce Schneier's secure handshake is so strong, you won't be able to exchange keys with anyone else for days.
 Bruce Schneier knows the state of schroedinger's cat.
-Bruce Schneier writes his books and essays by generating random alphanumeric text of an appropriate length and then decrypting it. 
+Bruce Schneier writes his books and essays by generating random alphanumeric text of an appropriate length and then decrypting it.
 Though a superhero, Bruce Schneier disdanes the use of a mask or secret identity as 'security through obscurity'.
 Bruce Schneier can log into any computer just by staring down the prompt.
 Bruce Schneier's wedding invitations included instructions for participating in a cryptographically secure RSVP protocol.
@@ -1263,7 +1263,7 @@ The real hero is always a hero by mistake; he dreams of being an honest coward l
 Jesus saves!  The rest of you take full damage.
 My own mind is my own church.  -- Thomas Paine
 Charm is a way of getting the answer yes without asking a clear question.  -- Albert Camus
-You can no more win a war than you can win an earthquake. - Jeannette Rankin
+You can no more win a war than you can win an earthquake. -- Jeannette Rankin
 CNN is one of the participants in the war.  I have a fantasy where Ted Turner is elected president but refuses because he doesn't want to give up power.  -- Arthur C. Clarke
 A "No" uttered from deepest conviction is better and greater than a "Yes" merely uttered to please, or what is worse, to avoid trouble.  -- Mahatma Ghandi
 It is difficult to produce a television documentary that is both incisive and probing when every twelve minutes one is interrupted by twelve dancing rabbits singing about toilet paper.  -- Rod Serling
@@ -1323,7 +1323,7 @@ I'm so indie rock, I only listen to voicemail on the original vinyl.  -- Diesel 
 God is a comedian playing to an audience too afraid to laugh.  -- Voltaire
 I worry that if the [Republican] campaign's common denominator gets any lower, it will create an improper fraction.  -- The Onion
 In 1880 the French captured Detroit but they gave it back because they couldn't get parts.
-If I was capable of procesing emotional cues, I'd be totally hurt by that.  -- Robin D. Laws, The Birds #197
+If I was capable of processing emotional cues, I'd be totally hurt by that.  -- Robin D. Laws, The Birds #197
 The opposite of the religious fanatic is not the fanatical atheist but the gentle cynic who cares not whether there is a god or not.  -- Eric Hoffer
 What I look forward to is continued immaturity followed by death.  -- Dave Barry
 The earth is like a tiny grain of sand, only much, much heavier.
@@ -1890,7 +1890,7 @@ My brain is paged out to my liver.  -- fortune, from a con
 Is it a three-way if the cat is watching? -- Diesel Sweeties #2379
 Is it a four-way if I wear my glasses? -- Diesel Sweeties #2379
 Is it a five-way if we do it at the Pentagon? -- Diesel Sweeties #2379
-The last time somebody said, "I find I can write much better with a word processor.", I replied, "They used to say the same thing about drugs." -- Roy Blount, Jr.
+The last time somebody said, "I find I can write much better with a word processor," I replied, "They used to say the same thing about drugs." -- Roy Blount, Jr.
 You may be marching to the beat of a different drummer, but you're still in the parade.
 You'd think the idea of a large brown bear in jeans and a ranger hat would be very effective in reaching a demographic mainly composed of crazed arsonists and lightning strikes, but I have my doubts.  -- The Onion
 If Christopher Reeve were alive today, I'm sure he'd be the first to say, "Blue M&Ms? Are you fucking kidding me?"  -- The Onion
@@ -1910,7 +1910,7 @@ Every bit of land is a holy land.  -- Michael Franti, "Hello Bonjour"
 Every drop of water is holy water.  -- Michael Franti, "Hello Bonjour"
 I love the country but I can't stand the scene.  -- Leonard Cohen, "Democracy"
 My OCD brings all the boys to the yard.  And arranges them by age, and then height.  -- @blankslate
-It is good taste, and good taste alone, that possesses the power to sterilize and is always the first handicap to any creative functioning.  -- Salvador Dali  
+It is good taste, and good taste alone, that possesses the power to sterilize and is always the first handicap to any creative functioning.  -- Salvador Dali
 A book of quotations can never be complete.  -- Robert M. Hamilton
 Have you ever observed that we pay much more attention to a wise passage when it is quoted than when we read it in the original author?  -- Philip G. Hamerton
 How does it change many dyslexics to take a lightbulb?  -- @Toy_A
@@ -2175,7 +2175,7 @@ When the only tool you have is a cat, every problem looks like a nap.  -- @sween
 With goals come flexibility.  With rules come paperwork.  -- me
 Not being able to read because your book ran out of batteries is a pretty hilarious first-world problem.  -- @jackcheng
 Great. My book ran out of batteries. Stupid future.  -- @TVsAndyDaly
-Most general statements are false, including this one.  -- Alexander Dumas
+Most general statements are false, including this one.  -- Alexandre Dumas
 The wonderful thing about a dancing bear is not how well he dances, but that he dances at all.
 1 universe, 9 planets, 204 countries, 809 islands, 7 seas, and I had the privilege to meet you.  -- @MannyDelvalle
 I used to call my wife "baby," but now that we have a real infant I call her "Senior baby in charge of development." -- @MKupperman
@@ -2779,6 +2779,8 @@ Pancakes crêpe me out.
 If I told you that you tested positive for antibodies, would you hold them against me?
 I would do anything to be able to draw, except practice drawing.  -- Post Secret
 You can't keep evil out of a country; it doesn't travel on a plane. Evil casts its spores through ideas, sown in a heart fertilized by hate.  -- me
+If you are more fortunate than others, build a longer table not a taller fence.
+If it has syntax, it isn't user friendly.
 An expert is a man who has made all the mistakes which can be made, in a very narrow field.  -- Niels Bohr
 Smashing heads doesn't open minds.  -- Deebra Tannen
 In the right hat anything is possible.  -- Lisa Simpson
@@ -2789,3 +2791,118 @@ If you have to advertise, then you're not much of a beekeeper.  -- Brett Adee
 You can only play Devil's advocate for so long before you realize that the Devil actually has you on retainer.  -- @absurdistwords
 The safe way to double your money is to fold it over once and put it in your pocket.  -- Kin Hubbard
 If I knew of something that could serve my nation but would ruin another, I would not propose it to my prince, for I am first a man and only then a Frenchman... because I am necessarily a man, and only accidentally am I French.  -- Montesquieu
+I used to do drugs.  I still do, but I used to, too.  -- Mitch Hedberg
+Every book is a children's book if the kid can read.  -- Mitch Hedberg
+My fake plants died because I did not pretend to water them.  -- Mitch Hedberg
+I'm against picketing, but I don't know how to show it.  -- Mitch Hedberg
+My manager says "Mitch, don't use liquor as a crutch."  I can't use liquor as a crutch because a crutch helps me walk.  -- Mitch Hedberg
+An escalator can never break; it can only become stairs.  -- Mitch Hedberg
+I want to hang a map of the world in my house and then I'm gonna put pins into all the locations that I've traveled to.  But first, I'm gonna have to travel to the top two corners of the map, so it won't fall down.  -- Mitch Hedberg
+I'm sick of following my dreams, man.  I'm just gonna ask where they're going and hook up with 'em later.  -- Mitch Hedberg
+A severed foot is the ultimate stocking stuffer.  -- Mitch Hedberg
+A burrito is a sleeping bag for ground beef.  -- Mitch Hedberg
+I don't have a girlfriend, but I do know a woman who'd be mad at me for saying that.  -- Mitch Hedberg
+I have a vest.  If I had my arms cut off, it would be a jacket.  -- Mitch Hedberg
+When I was a boy, I laid in my twin-size bed and wondered where my brother was.  -- Mitch Hedberg
+I haven't slept for ten days... because that would be too long.  -- Mitch Hedberg
+Thibault's trip to 2050 was fun, but he ended up with a timeshare in a different time.  -- Wondermark #1314
+Turns out even celebrated wizards have to poop in a ditch.  -- Wondermark #1315
+Recent protests show that many Americans want more government, just not this government.  -- Margaret Levi
+I had absolutely no idea what I wanted to do with my life but I was 100% certain that robots were awesome.  -- sailor mercury
+The fascists can have all my anger but I'll be damned if I'll let them steal my joy.  -- Kevin Hearne
+We had cryptographic potatoes for dinner.  They were salted and hashed.  -- @ThatAndromeda
+The tyranny of Daylight Saving Time is not that you lose an hour of sleep or an hour of sun.  It's that you let a clock decide when you act.  -- me
+Since we don't know where we're going, we'd better stick together in case someone gets there.  -- Ken Kesey
+The notion that one can demonstrate animus toward any group of people only by targeting all of them at once is fundamentally flawed.  -- Hawai'i and Elshikh v Trump
+You can't use it right now; it's been printing an infinite-scroll webpage since 2013.  -- XKCD #1812
+Our server room is carbon-neutral but produces bismuth constantly.  -- XKCD #1812
+When all you have is the hammer of socialism, everything looks like the sickle of class struggle.  -- Lee Rudolph
+A stitch in spacetime saves Deep Space Nine.  -- Harold Cooper
+The 2010s surge in white nationalism is in large part a reaction to a century of white internationalism.  -- me
+Let us henceforth make war on all monopolies--whether corporate or union.  The enemy of freedom is unrestrained power, and the champions of freedom will fight against the concentration of power wherever they find it.  -- Barry Goldwater, "The Conscience of a Conservative"
+In the beginning, God created man, but seeing him so feeble, He gave him the cat. -- Warren Eckstein
+I don't want everybody to vote.  Elections are not won by a majority of the people.  They never have been from the beginning of our country and they are not now.  As a matter of fact, our leverage in the elections quite candidly goes up as the voting populace goes down. -- Heritage Foundation founder Paul Weyrich
+All sounds are possible.  -- John Cage
+I thought I ordered an extra large T-shirt from Rome.  I received forty T-shirts.  I'm quite glad I didn't order a medium.  -- me
+A smile is a hammock for your face.  -- me
+I don't want to achieve immortality through my work; I want to achieve immortality through not dying.  -- Woody Allen
+I don't want to live on in the hearts of my countrymen; I want to live on in my apartment.  -- Woody Allen
+Americans with good jobs live in a socialist welfare state more generous, cushioned and expensive to the public than any in Europe.  -- Chris Ladd
+The problem with expecting voters to behave in an instrumentally rational way is that to vote at all isn't instrumentally rational.  -- @mattyglesias
+True love's okay but a series of false loves gives you more variety.  -- Oglaf
+It's an ouroboros eat ouroboros world out there.  -- me
+Culture is firmware for the human brain.  -- me
+Pour one out for the Aral Sea.  -- me
+Trumpcare replaces Obamacare like fire replaces a barn.  -- @bazecraze
+The wealthy countries are very smart, approving protocols, holding big speeches on the need to avoid deforestation, but they already deforested everything.  -- Brazilian president Lula da Silva
+A wealth-is-power system rewards historic success and often inhibits future success.  -- me
+I think...  I think it's in my basement... Let me go upstairs and check.  -- Escher
+The radical of one century is the conservative of the next.  The radical invents the views.  When he has worn them out, the conservative adopts them.  -- Mark Twain
+Scrubbing floors and emptying bedpans has as much dignity as the Presidency.  -- Richard Nixon
+As a woman I can't go to war, and I refuse to send anyone else.  -- Rep. Jeanette Rankin, December 8 1941
+If you're against war, you're against war regardless of what happens.  It's a wrong method of trying to settle a dispute.  -- Jeannette Rankin
+Cities, and really all human communities, are as organic and natural as forests.  In ancient cities like Rome and Paris, dwellings, churches, and streets, like an old-growth forest, are literally built upon the ruins of all that came before them.  -- Nordhaus & Shellenberger, "Break Through"
+We no longer believe it is justified to confine our affections to or reserve our loyalties for a particular race.  Why then do we believe we are justified in reserving our loyalties for a particular place?  -- Nordhaus & Shellenberger, "Break Through"
+The NIMBY mindset has no power against global warming.  No planning board can dictate that temperatures only rise 1 degree in this neighborhood.  -- me
+We expect humans to change as they age.  Why don't we expect the gods to change?  -- me
+Please, call me Busta.  Mr. Rhymes is my father.  -- Wil Wheaton
+All industries are disrupted from time to time.  Climate change will disrupt all industries at once.  -- me
+Uncertainty demands initiative, while certainty demands synchronization.  -- Bruce Schneier
+If one does not understand a person, one tends to regard him as a fool.  -- Carl Jung
+The revolution will be hard because it will use Viagra.  -- Smoove, "The Revolution Will Be Televised"
+So does bisexual mean once every two genders, or does it mean twice every gender -- @gaileyfrey
+Well, whatever it is that you're not doing, go don't do it somewhere else.  -- Manos, The Hands of Fate
+Uncertainty is not the same thing as ignorance.  -- Kerry Emanuel on climate and weather modeling
+You can't change someone's mind by punching them in the head.  -- me
+Don't go somewhere with a weapon that you wouldn't go without it.  -- USCCA
+In the current climate of discourse, rigorous honesty is a subversive act.  -- William Gibson
+The numbers for the Science March seem high but we won't know until we compare it to the numbers at the placebo march that's also happening.  -- @vornietom
+There's hardly anyone at the homeopathy march but they say that's how it works.  -- @jeremydcape
+It doesn't get easier.  You just get better. -- Nick Koumalatsos
+In a perfect socialist society, only the people who really deserved it would catch tuberculosis.  But alas, there is no ethical consumption under capitalism.  -- Michael Yosef Miller
+Never ask yourself, "Can I do this?"  Ask instead, "How can I do this?"  -- Dan Zadra
+I woke up still not dead again today.  -- Willie Nelson
+When principles and preferences battle, I try to go with principles.  -- Margaret Alia Denny
+You cannot step twice into the same rivers.  -- Heraclitus
+"You need an invisible friend."  "I have one, but she's always on the phone."  -- Dilbert 2017-05-03
+"A woman is like a tea bag. You never know how strong she is until she gets in hot water." -- Eleanor Roosevelt
+Always two there are, a proton and an electron.  May the electromagnetic force be with you.  -- me
+I have striven not to laugh at human actions, not to weep at them, not to hate them, but to understand them.  -- Baruch Spinoza
+We can all get along.  I mean, we're all stuck here for a while.  Let's try to work it out.  -- Rodney King
+And when dreams end, litigation often begins.  -- Lowering the Bar
+Get out of the way, you Grand Old Party / You're so old, you're getting warty.  -- William Jennings Bryan 1900 campaign song
+When a group of people make something sacred, the members of the cult lose the ability to think clearly about it.  -- Jonathan Haidt
+Contrasting emotion with cognition is as pointless as contrasting rain with weather, or cars with vehicles.  -- Jonathan Haidt
+It's all fun and games until someone loses an unsustainable amount of blood.  -- Good Tickle Brain, Romeo and Juliet act 3 scene 2
+The quickest way to lose is to judge your enemies by their appearance.  -- Diesel Sweeties #298
+If you can let go of being right, you can make a difference.  -- Steve Valk
+There are two great times to plant trees.  The first was 20 years ago, the other is now.  -- Double El & Agate Conservation Districts
+I wasn't really naked.  I simply didn't have any clothes on.  -- Josephine Baker
+The devil wears Prada.  I know, because she used my credit card.  -- Aventura, "Peligro"
+The Black Rock Desert is one of the most strikingly beautiful and utterly ethereal locations in the world that will ever try to kill you.  -- The Jackrabbit Speaks
+Vegan omelets: no ham, no fowl.  -- me
+If I meet the man of my dreams, I hope he doesn't know about my dreams.  -- Oglaf
+Cats are dangerous companions for writers because cat watching is a near-perfect method of writing avoidance.  -- Dan Greenburg
+Fascism wriggles into democracies by insisting on right to be heard, achieves critical mass, then dissolves the organs that installed it.  -- Anthony Oliveira
+Never on schedule but always on time.  -- Nas
+Better to remain silent and be thought a fool than to speak and remove all doubt.
+We stand on the shoulders of giants who bothered to login to StackOverflow and explain their problem in words easily indexed by Google.  -- SwiftOnSecurity
+The race isn't always to the swift.  Sometimes the slower person who's facing the right way gets it.  -- Oglaf, "Flanks"
+Unfortunately, on the Internet, words often speak louder than actions.  -- me
+I brake for breakpoints.  -- gdb bumper sticker
+Tranquility is a form of Luna sea.  -- me
+Shouldn't we at least fail at a couple more new ideas before going back to something we already know doesn't work?  -- The Onion
+I'm not generally in favor of killing anyone to "improve the species." But if it *must* happen, I'll make a strong argument for starting with those people who want to practice eugenics.  -- interactiveleaf
+Technology is the active human interface with the material world.  -- Ursula K. LeGuin
+finish your salad. a thousand islands died to make that dressing.  -- @rachelle_mandik
+Merely preventing your political opponents from doing what they want isn't the most inspiring work.  -- John McCain
+The center of mass is somewhere around the third pew.  -- me
+If an argument goes on for more than five minutes, both sides are wrong.  -- Neil DeGrasse Tyson
+Never date a tennis player.  Love means nothing to them.
+I saw a documentary on how ships are kept together.  Riveting!
+It vexes me when they would constrain science by the authority of the Scriptures, and yet do not consider themselves bound to answer reason and experiment.  -- Galileo Galilei, "The Authority of Scripture in Philosophical Controversies"
+What one programmer can do in one month, two programmers can do in two months.  -- Fred Brooks
+Wow!  I like your temporary tattoos!  Temporary in that one day you'll die.  -- Oglaf
+It's like having a compliant compass that agrees north is whatever you want it to be.  -- Rebecca Solnit, "The Loneliness of Donald Trump"
+There is danger from all men.  The only maxim of a free government ought to be to trust no man living with power to endanger the public liberty.  -- John Adams
+What's a nice place like this doing around people like us?  -- Marilyn Manson
