@@ -34,7 +34,7 @@ If the fool would persist in his folly he would become wise. -- Blake
 Prisons are built with stones of Law, Brothels: bricks of Religion. - Blake
 The fox condemns the trap, not himself. -- William Blake
 Listen to the fool's reproach! it is a kingly title! -- William Blake
-As the catterpiller chooses the fairest leaves to lay her eggs on, so the priest lays his curse on the fairest joys. -- William Blake
+As the caterpillar chooses the fairest leaves to lay her eggs on, so the priest lays his curse on the fairest joys. -- William Blake
 There is a problem with the pregnancy.  Abort, retry, ignore?
 Teaching yourself Zen is like curing yourself of the hiccups. -- Alan Watts
 Diffrwythdra.  Now THAT's a dirty word. -- me
@@ -317,7 +317,7 @@ You will always be lucky if you know how to make friends with strange cats.
 Students nowadays! Complaining they only get two MBs of disk space!  In my day we were lucky to get one file, and that was /dev/null.
 When the rich wage war it is the poor who die.  -- Jean-Paul Sartre
 Television is the opiate of a new generation.  -- me
-The economy is a fully owned subsidiary of the environment.  -- Tim Worth
+The economy is a fully owned subsidiary of the environment.  -- Gaylord Nelson
 Kids in cars cause accidents.  Accidents in cars cause kids.
 Remember, even if you win the rat race, you're still a rat.
 That was Zen, this is Tao.
@@ -2009,7 +2009,7 @@ Hofstadter's Law: It always takes longer than you expect, even when you take int
 I think she is a virgin.  Or at least, she used to be.  -- Ben Jabituya, Short Circuit
 When the laws are written by lawyers, only lawyers will understand the laws.  -- @fooljay
 Facebook's search capabilities are starting to rival Google's.  Like if you're trying to remember a song lyric or movie quote, all you have to do is type the first couple words into your status and one of your friends will fill in the rest almost immediately.  -- The Onion
-Your soul was for the first runner-up.  THe big prize was the dinette set.  -- Cat and Girl #2423
+Your soul was for the first runner-up.  The big prize was the dinette set.  -- Cat and Girl #2423
 Peace is not a little white dove.  It is you and me.  -- Rigoberta Menchu Tum
 I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.  -- Bilbo Baggins
 I was an avid consumer of children's cereals!  As soon as I got to college.  -- Wondermark #611
@@ -2746,7 +2746,7 @@ This is just a phase the moon is going through.  -- Oglaf
 A new golden rule: create more value than you capture.  -- me
 This lemonade needs less misogyny.  -- @talks_in_maths
 Strange times when a populace, concerned about decades of job loss, elects a president whose catch phrase was "You're fired."  -- me
-The electoral college is a disaster for a democracy.  e- Donald Trump, November 6, 2012
+The electoral college is a disaster for a democracy.  -- Donald Trump, November 6, 2012
 "Don't worry," said the cosmologist, "it will all be 0K in the end."
 Accident: A condition in which presence of mind is good, but absence of body is better.  -- Foolish Dictionary
 Way to drop the ball right into the goal.  -- cbick
@@ -2931,3 +2931,70 @@ Watches romance flick backwards to see an insipid woman who lives solely for a m
 Seismologists are loyal to a fault.
 Eat honey, it supports women-run businesses.
 Why must the weapons in Clue be so mundane?  It's an imaginary murder.  Why not a teapot full of bees, a laser gun, a poem so beautiful it kills?  -- @living_marble
+I didn't believe in reincarnation in any of my other lives.  I don't see why I should have to believe in it in this one.  -- Strange de Jim
+A funeral is the last thing I need.  -- @SkinnerSteven
+All's well that ends in an aquifer.  -- me
+Slow and steady wins the human race.  -- me
+There is a world of difference between "didn't win" and "didn't matter."  -- Harold Feld
+Don't take advice from a skeleton.  They don't have any skin in the game.
+This quote was taken out of context.  -- Randall Munroe
+When you're sifting haystacks for needles it's for sure you're gonna get pricked.  -- Barlow/Mydland, "Love Doesn't Have To Be Pretty"
+Our remedies oft in ourselves do lie which we ascribe to heaven.  -- Shakespeare, All's Well that Ends Well
+The greatest remedy for anger is delay.
+Promote, then, as an object of primary importance, institutions for the general diffusion of knowledge.  In proportion as the structure of a government gives force to public opinion, it is essential that public opinion should be enlightened. -- George Washington
+Let me make my mistakes on my own, I don't need your help.  -- Pigpen
+Moths are attracted to flames but seldom date them for long.  -- Oglaf
+Technically, any food can make you cry if you get punched in the nose with it.  -- SMBC, "Onions"
+Mankind's greatest achievements have come about by talking, and its greatest failures by not talking.  -- Stephen Hawking
+We have a pathology in this country.  We're a self-governing country whose citizens don't actually believe in self-governance and in fact don't know how their government actually works.  -- NonyNony, "Lawyers, Guns, and Money" comment
+I planted a whole case of Bud and never saw so much as one Anheuser bush.  -- Big_Bad_Bald_Bastart
+Hell is a dish best served cold.  -- Cat and Girl, "Transitive Properties"
+Revenge is 99% perspiration.  -- Cat and Girl, "Transitive Properties"
+Eternity is other people.  -- Cat and Girl, "Transitive Properties"
+Inspiration is 99% revenge.  -- Cat and Girl, "Transitive Properties"
+Ham is a dish best served cold.  -- Cat and Girl, "Transitive Properties"
+Hope is a good breakfast, but it is a bad supper.  -- Francis Bacon
+Nobody suffers the pain of birth or the anguish of loving a child in order for presidents to make wars, for governments to feed on the substance of their people, for insurance companies to cheat the young and rob the old.  -- Lewis Lapham
+Sometimes it's nice not to be in touch with your emotions.  -- Molly Ivins
+You've got to have fun when you're fightin' for freedom, because you might not win and it might be the only fun you ever have.  -- Molly Ivins
+Software being "Done" is like lawn being "Mowed."  -- Jim Benson
+Armor's Axiom: Virtue is the failure to achieve vice.
+Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as a soap bubble?  -- fortune
+Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally.  -- Abraham Lincoln
+You've got to choose bad everyday over catastrophic.  -- James Comey
+I'm looking for infinity / I got a _lot_ of finity.  -- Cat and Girl, "On and On"
+I miss the boiling oceans. / You miss who you _were_ when the oceans boiled.  -- Cat and Girl, "Progress is Inevitable"
+I have the consolation to reflect that during the period of my administration not a drop of the blood of a single fellow citizen was shed by the sword of war or of the law.  -- Thomas Jefferson
+Does it hurt? / Totally painless. / AAAAGH! IT HURTS! / Oh, I thought you were talking about me.  -- Dilbert 2018-04-24
+The only thing new is you finding out about it.  -- Mike Watt
+Any coward can sit in his home and criticize a pilot for flying into a mountain in a fog.  But I would rather, by far, die on a mountainside than in bed.  What kind of man would live where there is no daring?  -- Charles Lindbergh
+There is a lesson here for ambitious system architects: the most dangerous enemy of a better solution is an existing codebase that is just good enough.  -- Eric Steven Raymond
+Most people need some of their problems to help take their mind off some of the others.
+Nearly all men can stand adversity, but if you want to test a man's character, give him power.  -- Abraham Lincoln
+When it comes to the health care market, the invisible hand is just making the jerk-off motion.  -- Erin Ryan, Lovett or Leave It 2018-04-20
+The only thing better than singing is more singing.  -- Ella Fitzgerald
+You can't have molasses if you ain't got no lasses.
+I have seen the future and it is just like the present, only longer.  -- Kehlog Anylbran, "The Profit"
+I, for one, am a great fan of Roman numeral puns.  -- @IHPower
+I will follow the good side right to the fire, but not into it if I can help it.  -- Michel Eyquem de Montaigne
+Student Driver Clearly Copying Off Car In Front Of Him.  -- The Onion
+A surprisingly large amount of responsibility also comes with zero power.  -- @Gooooats
+Changing random stuff until your program works is "hacky" and "bad coding practice" but if you do it fast enough it's "machine learning" and pays 4x your current salary.  -- Steve Maine
+I'm beginning to think that most open source software is "free" as in "mattress"  -- @functiontelechy
+Believing that technology will save us is thinking that an escalator would have liberated Sisyphus.  -- Existential Comics
+grep me no patterns and I'll tell you no lines.
+Weeks of coding can save you days of thinking.
+There is nothing either good or bad, but thinking makes it so.  -- Hamlet II, ii
+Would you rather fight 100 centaurs or one full-size aur?  -- me
+The general principle linking these seemingly contradictory rationalizations is that in both cases, I am obviously correct.  -- Wondermark #1402
+Libertarians are to liberty as vegetarians are to vegetables: they claim a special spiritual affinity, but somehow there are never any carrots left for anybody else.  -- Paul Anderson
+I asked Charon out but he said he only wanted a Plutonic relationship.  -- me
+The Supreme Court is just a regular court with sour cream and diced tomatoes.  -- @dave_cactus
+When we as people, a free people, go wobbly on the truth even on what may seem the most trivial matters, we go wobbly on America.  -- Rex Tillerson
+So many Chrome tabs, so little time.
+If you knock Donald [Trump] on his ass, he will tell you the best position to be in is on your ass.  -- a former Trump Organization executive
+Very frankly, I am opposed to people being programmed by others.  -- Fred Rogers
+You are an important person just the way you are.  You can make healthy decisions.  -- Fred Rogers
+Just because you're sitting on an octopus doesn't make you the king of the sea.  -- Oglaf
+I like big butts and cannot lie, 'cause they allow a large brain to pass by.  -- Saturday Morning Breakfast Cereal, "Evolution"
+Americans have over 50 words for marijuana because it's very important to their culture.
