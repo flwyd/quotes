@@ -709,7 +709,7 @@ W00t.  Kisses in exchange for UNIX knowledge.  I must have died and gone to /dev
 But the thing that scared me most was when my enemy came close / And I saw that his face looked just like mine.  -- Bob Dylan, "John Brown"
 I don't understand why people still think that Satanic cults exist anywhere other than in the imagination of law enforcement officials, Christian extremists and mothers who hate heavy metal.  -- Margaret Cho
 The little man picks the cotton, the big man gets the money.  -- Bob Wills
-If you choose not to make a decision you still have made a choice. -- Rush
+If you choose not to decide you still have made a choice. -- Rush, "Freewill"
 In the original ending of the Civil War, Ulysses S. Grant and Robert E. Lee got married.  -- "Cat and Girl in the Audience"
 Our enemies are innovative and resourceful, and so are we,  They never stop thinking about new ways to harm our country and our people, and neither do we.  -- George W. Bush
 That depends on what the meaning of "is" is.  -- Bill Clinton
@@ -2248,7 +2248,7 @@ If I'm not challenging you then I'm catering to you, and you're too good for tha
 That's not even the tragedy of the commons anymore.  That's the tragedy of you're a dick.  -- XKCD #958
 If you're quick with a knife, you'll find the invisible hand is made of delicious invisible meat.  -- XKCD #958
 I wasn't afraid of the hood until I discovered adulthood and parenthood.  -- @Jason_maybe
-Don't be sad because it's over.  Smile because it happened.  -- Dr. Seuss
+Don't cry because it's over.  Smile because it happened.  -- attributed to Dr. Seuss
 Lot of bugs came out to see my porch light live in concert tonight. There's even a moth pit.  -- @fleshcake
 Immanuel Kant but Kubla Khan.
 Corporations are persona non grata.  -- me
@@ -3017,3 +3017,20 @@ One machine can do the work of fifty ordinary men.  No machine can do the work o
 All real communities grow out of a shared confrontation with survival.  -- Larry Harvey
 A libertarian is someone who is fiscally conservative but socially awkward.  -- @mey621
 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.  -- Christopher Thompson
+One of these days I'm gonna pull myself together / Soon as I finish tearin' myself apart.  -- Grateful Dead, "Gentlemen, Start Your Engines"
+Q: Which mythological monster casts no reflection?  A: All of them.  -- Oglaf
+Two police interrogators decided to play good cop/bad cop.  The bad cop showed up late and forgot why I was there.  -- me
+In order to form a more perfect union we the purple acknowledge that we do not live in red states or blue states.  -- Nick Forster
+The problem with setting an example of being unobtrusive is that nobody notices.
+Walking on water and developing software from a specification are easy if both are frozen.  -- Edward V Berard
+The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.  -- Donald Knuth
+I cried because I had no shoes and then I met a man with no feet!  And I said what's the matter with you?  I was BORN with no feet but I WORKED HARD and I GOT SOME.  -- Cat and Girl, "Angry Feet"
+Freedom of the press is guaranteed only to those who one one.  -- A. J. Liebling
+Sell not virtue to purchase wealth, nor Liberty to purchase power.  -- Benjamin Franklin, Poor Richard's Almanack
+We hear of the conversion of water into wine at the marriage in Cana as of a miracle. But this conversion is, through the goodness of God, made every day before our eyes. Behold the rain which descends from heaven upon our vineyards; there it enters the roots of the vines, to be changed into wine; a constant proof that God loves us, and loves to see us happy.  -- Benjamin Franklin
+It starts as foreboding, then it becomes boding.  Aftboding can linger for days.  -- Oglaf, "Hurly-Burly"
+Will we ever look back fondly at NOW?  Only if things get much much worse.  -- Cat and Girl, "At the 90s Diner"
+Many people say, "Who's my doppelganger?" when maybe they should ask, "Whose doppelganger am I?"  -- Carson Cistulli
+The most perfidious way of harming a cause consists of defending it deliberately with faulty arguments.  -- Friedrich Nietzsche
+Being stoned in a straight world is a lot easier than being straight in a stoned world.  -- Arlo Guthrie
+Vaccines are the tugboats of preventative health.  -- Dr. William H. Foege
