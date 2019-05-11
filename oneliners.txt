@@ -270,7 +270,7 @@ Even if you do learn to speak correct English, whom are you going to speak it to
 Jesus was a bastard.
 God is an adulterer.
 Famous last words:
-God enters by a private door into every individual. -- Ralph Waldo Emerson  Time to change the locks. -- Mike George
+God enters by a private door into every individual. -- Ralph Waldo Emerson / Time to change the locks. -- Mike George
 The advertisement is the most truthful part of a newspaper.  -- Thomas Jefferson
 How much do we need to pay you to screw Netscape? -- Bill Gates to AOL exec
 While money can't buy happiness, it lets you choose your own form of misery
@@ -326,7 +326,7 @@ We don't have to protect the environment -- the Second Coming is at hand.  -- Ja
 As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality.  -- Einstein
 The American West was built on the backs of draft dodgers.  -- Tom Scrivner
 Finding out what goes on inside the C.I.A. is like performing acupuncture on a rock.  -- New York Times
-Laws: good people don't need 'em, bad people don't obey 'em so why have 'em?  -- Amon Hennacy
+Laws: good people don't need 'em, bad people don't obey 'em so why have 'em?  -- Ammon Hennacy
 A mushroom cloud has no silver lining.
 The more laws and order are made prominent, the more thieves and robbers there will be.  -- Lao Tsu
 Those who make peaceful revolution impossible will make violent revolution inevitable.  -- John F. Kennedy
@@ -1530,7 +1530,7 @@ Never give a party if you will be the most interesting person there.  -- Mickey 
 Doubt is not a pleasant condition, but certainty is absurd. -- Voltaire
 A certain amount of opposition is a help, not a hindrance.  Kites rise against the wind, not with it.
 Raising some toads would be better than spending money on those seismological scientists.  -- a Chinese blogger
-My body is my ballot and I cast it every day.  -- Amon Hennacy
+My body is my ballot and I cast it every day.  -- Ammon Hennacy
 The Democratic Party is like buying tickets on the Titanic. -- Utah Phillips
 A world without failure is a world without freedom.  -- Dan Geer
 Blogging, like speaking at a Quaker meeting, is something one must do only if the spirit moves one.  -- Language Log
@@ -1760,7 +1760,7 @@ West Virginia's state bird is the dead canary.  -- Our Dumb World
 October. This is one of the peculiarly dangerous months to speculate in stocks. Other dangerous months are July, January, September, April, November, May, March, June, December, August and February.  -- Mark Twain
 The two symbols of the Republican Party: an elephant, and a big fat white guy who is threatened by change.  -- Seth MacFarlane
 It occurs to me that I am America.  -- Allen Ginsberg
-So this is where abstinence education and homophobia have gotten us: Gay kids are having vaginal intercourse, and straight kids are having anal intercourse. Good work, sexphobes!
+So this is where abstinence education and homophobia have gotten us: Gay kids are having vaginal intercourse, and straight kids are having anal intercourse. Good work, sexphobes!  -- Dan Savage
 If you want to do something good for yourself, go to Utah and get thrown out.  -- U. Utah Phillips
 It's just as if I put my car in a garage and when I came to get it, I found somebody else had borrowed it and run it into a tree.  -- Henry Ford on banks
 I don't like fragments of our Lord scattering all over the floor.  -- Rev. Bob Dietel, Episcopal priest
@@ -2864,7 +2864,7 @@ I woke up still not dead again today.  -- Willie Nelson
 When principles and preferences battle, I try to go with principles.  -- Margaret Alia Denny
 You cannot step twice into the same rivers.  -- Heraclitus
 "You need an invisible friend."  "I have one, but she's always on the phone."  -- Dilbert 2017-05-03
-"A woman is like a tea bag. You never know how strong she is until she gets in hot water." -- Eleanor Roosevelt
+A woman is like a tea bag.  You never know how strong she is until she gets in hot water. -- Eleanor Roosevelt
 Always two there are, a proton and an electron.  May the electromagnetic force be with you.  -- me
 I have striven not to laugh at human actions, not to weep at them, not to hate them, but to understand them.  -- Baruch Spinoza
 We can all get along.  I mean, we're all stuck here for a while.  Let's try to work it out.  -- Rodney King
@@ -3034,3 +3034,19 @@ Many people say, "Who's my doppelganger?" when maybe they should ask, "Whose dop
 The most perfidious way of harming a cause consists of defending it deliberately with faulty arguments.  -- Friedrich Nietzsche
 Being stoned in a straight world is a lot easier than being straight in a stoned world.  -- Arlo Guthrie
 Vaccines are the tugboats of preventative health.  -- Dr. William H. Foege
+The "Kingdom of Heaven" is a condition of the heart---not something that comes "upon the earth" or "after death."  -- Friedrich Nietzsche
+Christmas is built upon a beautiful and intentional paradox; that the birth of the homeless should be celebrated in every home.  -- G. K. Chesterton
+A nation ringed by walls would only imprison itself.  -- Barack Obama
+I [suspect] that we are throwing more and more of our resources, including the cream of our youth, into financial activities remote from the production of goods and services, into activities that generate high private rewards disproportionate to their social productivity.  I suspect that the immense power of the computer is being harnessed to this "paper economy", not to do the same transactions more economically but to balloon the quantity and variety of financial exchanges.  --James Tobin, July 1984
+What if God is just some guy with a cheat-sheet for all of history, and he just pops in from time to time to take credit for weird occurrences? -- Saturday Morning Breakfast Cereal
+Fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.  -- XKCD #2109
+Honesty is the best policy, but insanity is a better defense.
+It's probably better to have him inside the tent pissing out than outside the tent pissing in.  -- Lyndon B. Johnson on J. Edgar Hoover
+It is true that behavior cannot be legislated, and legislation cannot make you love me, but legislation can restrain you from lynching me, and I think that is kind of important.  -- Martin Luther King, Jr.
+This wood is RIGHT NEXT TO ATHENS, but how many people in Athenian clothing could there possibly be wandering around it?  Just the one, I’m certain.  -- Good Tickle Brain
+I knew it's also true that a good way to invent the future is to predict it. So I predicted Utopia, hoping to give Liberty a running start before the laws of Moore and Metcalfe delivered up what Ed Snowden now correctly calls "turn-key totalitarianism."  -- John Perry Barlow
+Europe is like a couple that wasn't sure they wanted to get married, so instead they decided to just open a joint checking account and see how things went. -- Kenneth Rogoff
+We must all hang together, or we will surely hang separately.  -- Ben Franklin
+When the only tool you have is a hammer, you tend to treat everything as if
+it were a nail.  -- Abraham Maslow
+What is now proved was once only imagin'd.  -- William Blake
