@@ -881,7 +881,7 @@ Don't worry about avoiding temptation -- as you grow older, it starts avoiding y
 You should never wear your best trousers when you go out to fight for freedom and liberty.  -- Henrik Ibsen
 It's lucky you're going so slowly, because you're going in the wrong direction.
 Are monsters real?  Of course they are.  I've seen their trucks.  -- Cat and Girl, "Getting Old"
-"Politics is supposed to be the second oldest profession. I have come to realize that it bears a very close resemblance to the first." -- Ronald Reagan
+Politics is supposed to be the second oldest profession. I have come to realize that it bears a very close resemblance to the first. -- Ronald Reagan
 To err is human, to moo bovine.
 A hard man is good to find.  -- Mae West
 Why isn't it Friday today?  -- Phish, "Friday"
@@ -3050,3 +3050,30 @@ We must all hang together, or we will surely hang separately.  -- Ben Franklin
 When the only tool you have is a hammer, you tend to treat everything as if
 it were a nail.  -- Abraham Maslow
 What is now proved was once only imagin'd.  -- William Blake
+When in doubt, do it.  It's much easier to apologize than to get permission.  -- Grace Hopper
+Numeric stability is probably not all that important when you're guessing.
+The only system that's good is a soundsystem.  -- Blood Preshah
+Leibniz admits this isn't the best of all possible worlds after spending five minutes on Twitter.  -- Existential Comics #294
+We may have all come on different ships but we're in the same boat now.  -- Martin Luther King, Jr.
+You can tell how self-confident an author is by the ratio of words in their non-fiction publications to the number of citations.  -- Saturday Morning Breakfast Cereal
+I am getting into abstract painting.  Real abstract--no brush, no canvas, I just think about it.  -- Steven Wright
+Powerful men are well advised not to use violence / For violence has a habit of returning / Thorns and weeds grow wherever an army goes / And lean years follow a great war.  -- Tao Te Ching
+If two wrongs don't make a right, try three.  -- Laurence J. Peter
+I come from a long line of dead people.  -- Oglaf, "Hamlet"
+I trained a pair of neural nets, Emily and Kevin, to respond to support tickets.  -- XKCD #2173
+If I had the critic's mentality (which I emphatically don't) I would sit down and try to analyze my stories, work out the factors that make some more successful than others, cultivate those factors, and simply explode with excellence. But the devil with that. I won't buy success at the price of self-consciousness. I don't have the temperament for it. I'll write as I please and let the critics do the analyzing.  -- Isaac Asimov
+I call together this meeting of the Slightly Lumpy Oblate Spheroid Earth society, which *technically* isn't a meeting because I'm the only one here.  -- Saturday Morning Breakfast Cereal, "Flat"
+If you're a real good kid, I'll give you a piggy-back ride on a buzz-saw.  -- W. C. Fields
+We have only two things to worry about:  That things will never get back to normal, and that they already have.
+A bell is a cup until it's struck.  -- Wire
+"We escaped with nothing but our lives and this riveting tale." / "... And, apparently, some regrets."  -- Wondermark #c1494
+Immortality is basically free now, except that you still die.  -- Saturday Morning Breakfast Cereal, "Digital Arts"
+The only way to get rid of a temptation is to yield to it.  -- Oscar Wilde
+Reduce, reuse, reincarnate.  -- Saturday Morning Breakfast Cereal, "Conscious"
+Night coffee doesn't screw up your sleep? / It doesn't affect my bedtime in the slightest. / When do you go to bed? / Next Tuesday.  -- Diesel Sweeties #884
+There are no stupid questions but there are stupid rambling statements which are only loosely related to the topic at hand.  -- me
+Bitcoin is the Cap & Trade of currencies.  -- me
+I got into a big fight about language in Kuala Lumpur.  It was quite the Malay.  -- me
+'Martyrdom' is the only way a person can become famous without ability.  -- George Bernard Shaw
+A meaningless life begins at conception.  -- Pro-Life Jean Paul Sartre
+I believe in an America where millions of Americans believe in an America that's the America millions of Americans believe in.  -- Mark Steyn
