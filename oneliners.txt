@@ -3276,3 +3276,12 @@ Man invented language to satisfy his deep need to complain.  -- Lily Tomlin
 Don't forget to dislike and unsubscribe.
 On a scale of 1 to 10 I'd say... oh, somewhere in there.
 Using neural networks to fool the human mind is like using a bazooka to fight a hamster.  -- Saturday Morning Breakfast Cereal, "Villainy"
+The past always looks better than it was.  It's only pleasant because it isn't here.  -- Finley Peter Dunne (Mr. Dooley)
+The Second Law of Thermodynamics: If you think things are in a mess now, just wait!  -- Jim Warner
+If you already know what recursion is, just remember the answer.  Otherwise, find someone who is standing closer to Douglas Hofstadter than you are; then ask him or her what recursion is.  -- Andrew Plotkin
+Making files is easy under the UNIX operating system.  Therefore, users tend to create numerous files using large amounts of file space.  It has been said that the only standard thing about all UNIX systems is the message-of-the-day telling users to clean up their files.  -- System V.2 administrator's guide
+Last guys don't finish nice.  -- Stanley Kelley, on the cult of victory at all costs
+Habit is habit, and not to be flung out of the window by any man, but coaxed down-stairs a step at a time.  -- Mark Twain, "Pudd'nhead Wilson's Calendar"
+If you're going to walk on thin ice, you might as well dance.
+A modem is a baudy house.
+An endless fiesta would be exhausting and demoralizing: the pleasure would go out of it, the masks would disguise only fatigue and apathy, and there would eventually be nothing to celebrate.  The ordinary and the extraordinary need each other.  -- Rebecca Solnit, "Paradise Built in Hell"
