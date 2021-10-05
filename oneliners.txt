@@ -10,7 +10,7 @@ The box said "Requires Windows '95 or better."  So I loaded Win 3.1.
 Life isn't fair, but the root password helps. -- The BOFH
 "I don't think so," said Rene Descartes.  Just then, he vanished.
 Their white flags are no match for our muskets! -- The Simpsons
-U.S. Government: "China needs to improve its human rights record."  U.S. Law Forces: "Apply the pepper spray to the protestors' eyes."
+U.S. Government: "China needs to improve its human rights record."  U.S. Law Forces: "Apply the pepper spray to the protesters' eyes."
 I'm a doctor, where's the horse? -- Groucho Marx
 I love God.  I just hate the paperwork. -- Nothing Sacred
 To start, press any key.  Where's the any key? -- Homer Simpson
@@ -246,7 +246,7 @@ I have a firm grasp on reality. Now I'm going to strangle it. - Chris Hayes
 Two wrongs don't make a right, but three lefts do.
 People usually get what's coming to them ... unless it's been mailed.
 Witty sayings prove nothing.  -- Voltaire
-If men could get pregnant, abortion would be a sacrament.
+If men could get pregnant, abortion would be a sacrament.  -- taxi driver to Florynce Kennedy and Gloria Steinem
 There is no lifeguard in the gene pool.  -- Bizzare
 I can resist anything except temptation.  -- Rush
 No matter where you go, there you are.
@@ -3472,3 +3472,18 @@ Out of mind is out of sight!
 The error of youth is to believe that intelligence is a substitute for experience, while the error of age is to believe experience is a substitute for intelligence.  -- Lyman Bryson
 It takes less time to do a thing right than it does to explain why you did it wrong.  -- H. W. Longfellow
 Freedom's just another word for nothing left to lose.  -- Kris Kristofferson, "Me and Bobby McGee"
+The ne'er do wells are doing quite well for a change.  -- Oglaf
+Who dat who say "who dat" when I say "who dat"?  -- Hattie McDaniel
+We are granted by our maker the freedom of speech and the discretion to know when to shut the fuck up.
+Certainly there are things in life that money can't buy, But it's very funny -- did you ever try buying them without money?  -- Ogden Nash
+Standards are crucial.  And the best thing about standards is: there are so many to choose from!
+The Salvadors of perception stand wide.  Melt on through to the other side.  -- me
+That's somewhere between profound and gibberish.  -- Chris Anderson, TED interview with Sam Altman
+You never have to change anything you got up in the middle of the night to write.  -- Saul Bellow
+I asked her if she wanted to be loners together.  -- Samuel James, The Moth
+Before making a deal with God, check it's not a going-out-of-business deal.  -- Oglaf, "Foresight"
+math feels like it would be easier if we had a nice list of all the numbers.  -- @pupOnSecurity
+The bruises on my fingertips are my poof of work.  -- XKCD #2522
+If there is no wind, row.  -- Polish proverb
+Surly to bed, surly to rise, makes you about average.
+The broad mass of a nation... will more easily fall victim to a big lie than to a small one.  -- Adolf Hitler, "Mein Kampf"
