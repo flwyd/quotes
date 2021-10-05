@@ -462,7 +462,6 @@ Calm down, it's *only* ones and zeroes.
 Capital punishment is our society's recognition of the sanctity of human life. -- Senator Orrin Hatch
 Life stinks, and don't get me started on the terrible sequel...  -- TIW
 goto, let us go down, and there confound their language.  -- Genesis 11:7
-A picture is worth 10K words -- but only those to describe the picture.  Hardly any sets of 10K words can be adequately described with pictures.
 As is all too frequently the case... Kant succeeds in being technical without being precise.  -- Henry E. Allison
 (Okay, reinventing the wheel and telling venture capitolists and the stock market that wheels are the next big thing.)  -- Julian Lighton
 TV is chewing gum for the eyes.  -- Frank Lloyd Wright
@@ -793,7 +792,6 @@ What awful irony is this?  We are as gods, but know it not.
 Kent's Heuristic: Look for love where you would most like to find it.
 I think the musician expressed the pain and disbelief he felt after realizing that under heavy loads his kernel is spending unreasonably huge amounts of time in unlock_vma_mappings() -- The Cube
 Heisenberg may have slept here.
-The best book on programming for the layman is "Alice in Wonderland"; but that's because it's the best book on anything for the layman.  -- Alan Perlis
 Game includes board, strategy guide, Iago, Othello, Desdemona (and pillow), and thirty innocent Pawns.  Replacement Desdemonas sold separately.  -- The Cube
 Logic comes afterwards.  It's how we retrace our steps.  It's being wise after the event.  Before the event you have to be very silly.  -- Douglas Adams, _The Salmon of Doubt_
 At the end of all this being-determined-to-be-a-jack-of-all-trades, I think I'm better off just sitting down and putting a hundred thousand words in a cunning order.  -- Douglas Adams, The Salmon of Doubt
@@ -888,7 +886,6 @@ Why isn't it Friday today?  -- Phish, "Friday"
 We dedicated ourselves to a powerful idea -- organic law rather than naked power.  There seems to be universal acceptance of that idea in the nation.  -- Supreme Court Justice Potter Stewart
 Cleanliness is next to impossible.
 Don't drop acid, take it pass-fail!  -- Bryan Michael Wendt
-Syntactic sugar causes cancer of the semicolon.  -- Alan J. Perlis, Epigrams on Programming
 Implicit in the term 'national defense' is the notion of defending those values and ideas which set this nation apart... It would indeed be ironic if, in the name of national defense, we would sanction the subversion of... those liberties... which make the defense of the nation worthwhile. - Judge Anna Diggs Taylor
 You are not a loan.  -- Dave Cook
 If a lady were to present a glove to her champion, the champion's only responsibility is to return the glove to the lost and found.  -- Cat and Girl
@@ -1437,7 +1434,6 @@ Debugging is twice as hard as writing the code in the first place.  Therefore, i
 If debugging is the process of removing bugs, then programming must be the process of putting them in.  -- Edsger W. Dijkstra
 I don't care if it works on your machine!  We are not shipping your machine!  -- Vidiu Platon
 Programming is like sex: one mistake and you're providing support for a lifetime.  -- Michael Sinz
-There are two ways to write error-free programs; only the third one works.  -- Alan J. Perlis
 You can either have software quality or you can have pointer arithmetic, but you cannot have both at the same time.  -- Bertrand Meyer
 If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, 'We're sorry, here's a coupon for two more.' -- Mark Minasi
 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  -- Martin Golding
@@ -1904,7 +1900,6 @@ We made the buttons on the screen look so good you'll want to lick them.  -- Ste
 Some people may call me a bad parent for not having my children vaccinated.  Other people may call me an irresponsible asshole.  But personally, I don't see why I can't be both. -- The Onion
 We can map the genome, but will we ever unravel the bovine mind?  -- The Onion
 A good education is no substitute for a well connected father.  -- The Onion
-A language that doesn't affect the way you think about programming is not worth knowing. -- Alan Perlis
 Every bit of land is a holy land.  -- Michael Franti, "Hello Bonjour"
 Every drop of water is holy water.  -- Michael Franti, "Hello Bonjour"
 I love the country but I can't stand the scene.  -- Leonard Cohen, "Democracy"
@@ -2183,7 +2178,6 @@ If I have not seen so far it is because I stood in giant's footsteps.
 A closed mouth gathers no feet.
 In my experience, less than 40% of people wearing "Duke" sweatshirts are actual dukes.  -- @meganamram
 Saving yourself for marriage by not having sex is like saving yourself for Thanksgiving by not eating.  -- me
-Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.  -- Alan Perlis
 People who are often misunderstood: 6% geniuses; 94% garden-variety nonsense-spouters.  -- Wondermark #7360
 I found out why my car was humming.  It forgot the words.
 Hassling a customer to give you a "10" on your customer service survey is like insisting that your lover fake an orgasm.  -- @loresjoberg
@@ -3240,7 +3234,6 @@ Most seminars have a happy ending.  Everyone's glad when they're over.
 Everything that we see is a shadow cast by that which we do not see.  -- Martin Luther King, Jr.
 If you see something suspicious, say something specific.  -- Nextdoor
 The future isn't what it used to be.
-In the long run, every program becomes rococo, and then rubble.  -- Alan Perlis
 Mediocrity finds safety in standardization.  -- Frederick Crane
 I've been diagnosed with a rare form of amnesia where I deny the existence of certain '80s bands.  There is no cure.
 When you say 'I wrote a program that crashed Windows', people just stare at you blankly and say 'Hey, I got those with the system, *for free*'.  -- Linus Torvalds
@@ -3487,3 +3480,54 @@ The bruises on my fingertips are my poof of work.  -- XKCD #2522
 If there is no wind, row.  -- Polish proverb
 Surly to bed, surly to rise, makes you about average.
 The broad mass of a nation... will more easily fall victim to a big lie than to a small one.  -- Adolf Hitler, "Mein Kampf"
+# Quotes from Alan J. Perlis, "Epigrams on Programming"
+Syntactic sugar causes cancer of the semicolon.  -- Alan Perlis, Epigrams on Programming
+A programming language is low level when its programs require attention to the irrelevant.  -- Alan Perlis, Epigrams on Programming
+It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.  -- Alan Perlis, Epigrams on Programming
+If you have a procedure with ten parameters, you probably missed some.  -- Alan Perlis, Epigrams on Programming
+In the long run, every program becomes rococo, then rubble.  -- Alan Perlis, Epigrams on Programming
+Every program has (at least) two purposes: the one for which it was written, and another for which it wasn't.  -- Alan Perlis, Epigrams on Programming
+A language that doesn't affect the way you think about programming is not worth knowing. -- Alan Perlis, Epigrams on Programming
+Optimization hinders evolution.  -- Alan Perlis, Epigrams on Programming
+To understand a program you must become both the machine and the program.  -- Alan Perlis, Epigrams on Programming
+There will always be things we wish to say in our programs that in all known languages can only be said poorly.  -- Alan Perlis, Epigrams on Programming
+In programming, everything we do is a special case of something more general--and often we know it too quickly.  -- Alan Perlis, Epigrams on Programming
+A picture is worth 10K words -- but only those to describe the picture.  Hardly any sets of 10K words can be adequately described with pictures.  -- Alan Perlis, Epigrams on Programming
+There are two ways to write error-free programs; only the third one works.  -- Alan Perlis, Epigrams on Programming
+Some programming languages manage to absorb change, but withstand progress.  -- Alan Perlis, Epigrams on Programming
+Like punning, programming is a play on words.  -- Alan Perlis, Epigrams on Programming
+The best book on programming for the layman is "Alice in Wonderland"; but that's because it's the best book on anything for the layman.  -- Alan Perlis, Epigrams on Programming
+Bringing computers into the home won't change either one, but may revitalize the corner saloon.  -- Alan Perlis, Epigrams on Programming
+Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.  -- Alan Perlis, Epigrams on Programming
+Software is under a constant tension.  Being symbolic it is arbitrarily perfectable; but also it is arbitrarily changeable.  -- Alan Perlis, Epigrams on Programming
+It is easier to change the specification to fit the program than vice versa.  -- Alan Perlis, Epigrams on Programming
+Fools ignore complexity.  Pragmatists suffer it.  Some can avoid it.  Geniuses remove it.  -- Alan Perlis, Epigrams on Programming
+In English every word can be verbed.  Would that it were so in our programming languages.  -- Alan Perlis, Epigrams on Programming
+In computing, invariants are ephemeral.  -- Alan Perlis, Epigrams on Programming
+When we write programs that "learn", it turns out that we do and they don't.  -- Alan Perlis, Epigrams on Programming
+Often it is the means that justify the ends: Goals advance technique and technique survives even when goal structures crumble.  -- Alan Perlis, Epigrams on Programming
+Making something variable is easy.  Controlling duration of constancy is the trick.  -- Alan Perlis, Epigrams on Programming
+Documentation is like term insurance: It satisfies because almost no one who subscribes to it depends on its benefits.  -- Alan Perlis, Epigrams on Programming
+Is it possible that software is not like anything else, that is meant to be discarded: that the whole point is to see it as a soap bubble?
+Because of its vitality, the computing field is always in desparate need of new cliches: Banality soothes our nerves.  -- Alan Perlis, Epigrams on Programming
+It is the user who should parameterize procedures, not their creators.  -- Alan Perlis, Epigrams on Programming
+If your computer speaks English, it was probably made in Japan.  -- Alan Perlis, Epigrams on Programming
+Prolonged contact with the computer turns mathematicians into clerks and vice versa.  -- Alan Perlis, Epigrams on Programming
+We are on the verge: Today our program proved Fermat's next-to-last theorem.  -- Alan Perlis, Epigrams on Programming
+What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton hotel on its peak.  -- Alan Perlis, Epigrams on Programming
+Motto for a research laboratory: What we work on today, others will first think of tomorrow.  -- Alan Perlis, Epigrams on Programming
+One does not learn computing by using a hand calculator, but one can forget arithmetic.  -- Alan Perlis, Epigrams on Programming
+The computer reminds one of Lon Chaney--it is the machine of a thousand faces.  -- Alan Perlis, Epigrams on Programming
+Don't have good ideas if you aren't willing to be responsible for them.  -- Alan Perlis, Epigrams on Programming
+Computers don't introduce order anywhere as much as they expose opportunities.  -- Alan Perlis, Epigrams on Programming
+We will never run out of things to program as long as there is a single program around.  -- Alan Perlis, Epigrams on Programming
+One can't proceed from the informal to the formal by formal means.  -- Alan Perlis, Epigrams on Programming
+The proof of a system's value is its existence.  -- Alan Perlis, Epigrams on Programming
+You can't communicate complexity, only an awareness of it.  -- Alan Perlis, Epigrams on Programming
+It's difficult to extract sense from strings, but they're the only communication coin we can count on.  -- Alan Perlis, Epigrams on Programming
+Editing is a rewording activity.  -- Alan Perlis, Epigrams on Programming
+Computer Science is embarrassed by the computer.  -- Alan Perlis, Epigrams on Programming
+Within a computer natural language is unnatural.  -- Alan Perlis, Epigrams on Programming
+Most people find the concept of programming obvious, but the doing impossible.  -- Alan Perlis, Epigrams on Programming
+Programming is an unnatural act.  -- Alan Perlis, Epigrams on Programming
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.  -- Alan Perlis, Epigrams on Programming
