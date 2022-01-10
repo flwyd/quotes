@@ -366,17 +366,17 @@ When life deals you lemons, eat them.  -- me
 Necessity may be the mother of invention, but boredom didn't wear a condom.
 Millions yearn for immortality who do not know what to do with themselves on a rainy Sunday afternoon.  -- Susan Ertz
 Whenever I watch TV and see those poor starving kids all over the world, I can't help but cry. I mean I'd love to be skinny like that but not with all those flies and death and stuff.  -- urban legend attributed to Mariah Carey
-/dev/null would have cared more.  -- The Cube, http://www.forum2000.org/
+/dev/null would have cared more.  -- The Cube, Forum 2000
 I don't believe in astrology.  But then I'm an Aquarius, and Aquarians don't believe in astrology.  -- James R. F. Quirk
-God doesn't take the advice of syphillitic insane Germans who never got laid and were too cowardly to join the army.  -- http://www.forum2000.org/
-I assure you, the "pleasure" was all yours.  -- http://www.forum2000.org/
-Keep your mind in check, libido-boy. -- The Cube, http://www.forum2000.org/
+God doesn't take the advice of syphillitic insane Germans who never got laid and were too cowardly to join the army.  -- Forum 2000
+I assure you, the "pleasure" was all yours.  -- Forum 2000
+Keep your mind in check, libido-boy. -- The Cube, Forum 2000
 He who Laughs, Lasts.
 Windows: Plug and play my ass.  Er...  -- me
 Life is a whim of several billion cells to be you for a while.
 Guns don't kill people.  Bullets do.
 The woman of your dreams is already in your bed, assuming you sleep in bed.  -- Mr. Spock SOMAD, Forum 2000
-Read at your own philisophical risk. -- The Cube, http://www.forum2000.org/
+Read at your own philisophical risk. -- The Cube, Forum 2000
 Antonym, n.: The opposite of the word you're trying to think of.
 Inquiring nose wants to mind.
 Conversation, n.: A vocal competition in which the one who is catching his breath is called the listener.
@@ -426,7 +426,7 @@ A celibate clergy is an especially good idea, because it tends to suppress any h
 We are Pentium of Borg.  Division is futile.  You will be approximated.
 Dimensions will always be expressed in the least usable term.  Velocity, for example, will be expressed in furlongs per fortnight.
 God did not create the world in 7 days; he screwed around for 6 days and then pulled an all-nighter.
-There's lies, damn lies, and documentation.  -- http://www.forum2000.org/
+There's lies, damn lies, and documentation.  -- Forum 2000
 If Valentine's Day is the day for lovers, what's the day for single men?  Why, Palm Sunday, of course.
 Anyone who says he can see through women is missing a lot.  -- Groucho Marx
 How different would Usenet be if, instead of a 'Send' button, your news reader had a 'Do you think anyone really cares?' button?  -- Robert Bain
@@ -434,7 +434,7 @@ Health is merely the slowest possible rate at which one can die.
 More we disagree, the more chance there is that at least one of us is right
   -v   generate reverberating echo  -- from the mock GNU echo manpage
 Like any responsible journalist, I immediately went to lunch. -- Dan Savage
-The revolution came, but we ran out of wall.  -- http://www.forum2000.org/
+The revolution came, but we ran out of wall.  -- Forum 2000
 Christmas is the one time of year when people of all religions come together to worship Jesus Christ.  -- Dysfunctional Family Circus
 How can I tell whether a man who fears death is not like a man who has left home and dreads returning?  -- Chuang Tsu, trans. Gia-fu Feng
 Every day I come closer and closer to being king of the Off-By-One Error.
@@ -442,7 +442,7 @@ Football combines the two worst features of American life.  It is violence punct
 Experience is what you get when you didn't get what you wanted.
 The odds are good, but the goods are odd.  -- on computer industry romance
 Acting is an art which consists of keeping the audience from coughing.
-Ten years from now, you will still be a Gemini. - http://www.forum2000.org/
+Ten years from now, you will still be a Gemini. - Forum 2000
 Did you neglect to buy a Site License for the Natural Numbers? -- Forum2000
 A baby in motion tends to remain at rest.
 One ping(8) to bring them all and in the darkness bind(2) them. -- Keith Bolland
@@ -454,7 +454,7 @@ Insanity is hereditary.  You get it from your kids.
 God is real, unless declared integer.
 Nowhere is it written that you have to weigh 300 pounds and play Dungeons & Dragons to be a dork.  -- Dan Savage
 The sooner I fall behind, the more time I have to catch up.  -- Anonymous
-They took too much BSD back in the '80's.  -- http://www.forum2000.org/
+They took too much BSD back in the '80's.  -- Forum 2000
 Life is complex: Part real, part imaginary.
 My Tarot deck can pass the Turing Test.
 I constructed it on the spot.  I'm sort of a roll-your-own linguist  -- me
@@ -3041,8 +3041,7 @@ This wood is RIGHT NEXT TO ATHENS, but how many people in Athenian clothing coul
 I knew it's also true that a good way to invent the future is to predict it. So I predicted Utopia, hoping to give Liberty a running start before the laws of Moore and Metcalfe delivered up what Ed Snowden now correctly calls "turn-key totalitarianism."  -- John Perry Barlow
 Europe is like a couple that wasn't sure they wanted to get married, so instead they decided to just open a joint checking account and see how things went. -- Kenneth Rogoff
 We must all hang together, or we will surely hang separately.  -- Ben Franklin
-When the only tool you have is a hammer, you tend to treat everything as if
-it were a nail.  -- Abraham Maslow
+When the only tool you have is a hammer, you tend to treat everything as if it were a nail.  -- Abraham Maslow
 What is now proved was once only imagin'd.  -- William Blake
 When in doubt, do it.  It's much easier to apologize than to get permission.  -- Grace Hopper
 Numeric stability is probably not all that important when you're guessing.
@@ -3531,3 +3530,80 @@ Within a computer natural language is unnatural.  -- Alan Perlis, Epigrams on Pr
 Most people find the concept of programming obvious, but the doing impossible.  -- Alan Perlis, Epigrams on Programming
 Programming is an unnatural act.  -- Alan Perlis, Epigrams on Programming
 Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.  -- Alan Perlis, Epigrams on Programming
+# end Epigrams on Programming
+No matter what other nations may say about the United States, immigration is still the sincerest form of flattery.
+It has long been known that one horse can run faster than another--but which one?  Differences are crucial.  -- Lazarus Long
+The distinction between Freedom and Liberty is not accurately known; naturalists have been unable to find a living specimen of either.  -- Ambrose Bierce
+I would like to suggest that you not use speed, and here's why: it is going to mess up your heart, mess up your liver, your kidneys, rot out your mind.  In general this drug will make you just like your mother and father.  -- Frank Zappa
+Mind if I use your bathroom? / Sure. It's a real toilet, so be careful.  -- The American Astronaut
+How long have they been making you dress like that? / The word's not "make." It's "let."  -- The American Astronaut
+Better hope you get what you want before you stop wanting it.
+The only "ism" Hollywood believes in is plagiarism.  -- Dorothy Parker
+When Alexander Graham Bell died in 1922, the telephone people interrupted service for one minute in his honor.  They've been honoring him intermittently ever since, I believe.  -- The Grab Bag
+Disclaimer: "These opinions are my own, though for a small fee they be yours too."  -- Dave Haynie
+Rule of the Great: When people you greatly admire appear to be thinking deep thoughts, they probably are thinking about lunch.
+Niklaus Wirth has lamented that, whereas Europeans pronounce his name correctly (Ni-klows Virt), Americans invariably mangle it into (Nick-les Worth).  Which is to say that Europeans call him by name, but Americans call him by value.
+Cache: A very expensive part of the memory system of a computer that no one is supposed to know is there.
+Work is of two kinds: first, altering the position of matter at or near the earth's surface relative to other matter; second, telling other people to do so.  -- Bertrand Russell
+Under a government which imprisons any unjustly, the true place for a just man is also a prison.  -- Henry David Thoreau
+These aren't nipples, they're umlauts.  -- Oglaf, "All Caps"
+Are you a pauper?  Do you tweet in the vernacular?  -- Cat and Girl, "The Middle Ages II"
+So remember, the worst thing that can happen when you ask out a girl is that they could inadvertently destroy your attempt to ground mathematics in pure logic. It's probably not worth the risk.  -- Existential Comics, "In Which Bertrand Russell Asks Out a Girl"
+c++: the power, elegance and simplicity of a hand grenade  -- markm
+I think you might be on fire but I'm not an expert.  -- Oglaf
+Novinson's Revolutionary Discovery: When comes the revolution, things will be different--not better, just different.
+Johnson's law: Systems resemble the organizations that create them.
+We will not be responsible for damage to equipment, your ego, county wide power outages, spontaneously generated mini (or larger) black holes, planetary disruptions, or personal injury or worse that may result from the use of this material.  -- taken from Samuel M. Goldwasser's Sam's Strobe FAQ Notes on the Troubleshooting and Repair of Electronic Flash Units and Strobe Lights
+If you stand on your head, you will get footprints in your hair.
+Never trust a child farther than you can throw it.
+There are some people that if they don't know, you can't tell 'em.  -- Louis Armstrong
+The USA is so enormous, and so numerous are its schools, colleges and religious seminaries, many devoted to special religious beliefs ranging from the unorthodox to the dotty, that we can hardly wonder at its yielding a more bounteous harvest of gobbledegook than the rest of the world put together.  -- Sir Peter Medawar
+A man is like a rusty wheel on a rusty cart, He sings his song as he rattles along and then he falls apart.  -- Richard Thompson
+How can you think and hit at the same time?  -- Yogi Berra
+A diplomat is a person who can tell you to go to hell in such a way that you actually look forward to the trip.  -- Caskie Stinnett, "Out of the Red"
+Either one of us, by himself, is expendable.  Both of us are not.  -- Captain Kirk, "The Devil in the Dark"
+The problem with computers is that they do exactly what you tell them to.
+Famous, adj.: Conspicuously miserable.  -- Ambrose Bierce, "The Devil's Dictionary"
+Positive, adj.: Mistaken at the top of one's voice.  -- Ambrose Bierce, "The Devil's Dictionary"
+Progress is impossible without change, and those who cannot change their minds cannot change anything.  -- George Bernard Shaw
+The fourth little pig's house was made of wolf skulls.  They aren't very sturdy, but they send a message.  -- Saturday Morning Breakfast Cereal, "Wolf"
+Given the amount of precious metals and weapons they keep underground... are dragons preppers?  -- Saturday Morning Breakfast Cereal, "Hoard"
+If a meteor becomes meteorite when it hits the ground, we all know what happens when Amir lands, amirite?
+Are you really sure that a floor can't also be a ceiling?  -- M. C. Escher
+The doors of proprioception stand wide / Break on through to the inside.  -- me
+I'd talk to infantry commanders and ask what they need, and they'd say 'Turn this money off.  We're having to look for people and projects to spend money on.'"  -- USAID official, SIGAR 21-46-LL "What We Need to Learn: Lessons from Twenty Years of Afghanistan Reconstruction"
+With such a training deficiency, some police advisors turned in desperation to television shows like "Cops" and "NCIS" to become more familiar with policing.  -- USAID official, SIGAR 21-46-LL "What We Need to Learn: Lessons from Twenty Years of Afghanistan Reconstruction"
+This sexually transmitted virginity is making us vulnerable to vampires.  -- Oglaf
+Heard that the next Space Shuttle is supposed to carry several Guernsey cows?  It's gonna be the herd shot 'round the world.
+A feature is nothing more than a bug with seniority.
+A rolling stone gathers momentum.
+The only thing to do with good advice is pass it on.  It is never any use to oneself.  -- Oscar Wilde
+The only winner in the War of 1812 was Tchaikovsky.  -- David Gerrold
+There never was a good war or a bad peace.  -- Ben Franklin
+There's nothing to writing.  All you do is sit at a typewriter and open a vein.  -- Red Smith
+How is the world ruled, and how do wars start?  Diplomats tell lies to journalists, and they believe what they read.  -- Karl Kraus, "Aphorisms and More Aphorisms"
+God gave man two ears and one tongue so that we listen twice as much as we speak.  -- Arab Proverb
+I believe it best to wait and hear what the scientists have to say about it... before dismissing them out of hand entirely.  -- Dork Tower 2021-12-01
+All the idols made by man, however terrifying they may be, are in point of fact subordinate to him, and that is why he will always have it in his power to destroy them.  -- Simone de Beauvoir, "The Second Sex"
+There are really not many jobs that actually require a penis or a vagina, and all other occupations should be open to everyone.  -- Gloria Steinem
+Sounds like someone's askin' for infinite punishment for finite sins.  -- Saturday Morning Breakfast Cereal, "Morality"
+I know you're lying but your lies are so wonderful.  -- Saturday Morning Breakfast Cereal, "Nucular"
+To announce that there must be no criticism of the president, or that we are to stand by the president right or wrong, is not only unpatriotic and servile, but is morally treasonable to the American public." --  Theodore Roosevelt
+Finagle's Seventh Law: The perversity of the universe tends toward a maximum.
+Life is too important to take seriously. -- Corky Siegel
+Vaccinated people can remove their hats without trouble by tugging upwards, say doctors. -- XKCD #2551
+There are no rules for March.  March is spring, sort of, usually, March means maybe, but don't bet on it.
+Living in the complex world of the future is somewhat like having bees live in your head.  But, there they are.
+A lady is one who never shows her underwear unintentionally.  -- Lillian Day
+Progress might have been all right once, but it's gone on too long.  -- Ogden Nash
+Cohen's Law: There is no bottom to worse.
+Diplomacy is about surviving until the next century.  Politics is about surviving until Friday afternoon.  -- Sir Humphrey Appleby
+The dirty work at political conventions is almost always done in the grim hours between midnight and dawn.  Hangmen and politicians work best when the human spirit is at its lowest ebb.  -- Russell Baker
+The first is to ensure your partner understands that nature has root privileges - nature doesn't have to make sense.  -- Telsa Gwynne
+The problem with any unwritten law is that you don't know where to go to erase it.  -- Glaser and Way
+"If you lived today as if it were your last, you'd buy up a box of rockets and fire them all off, wouldn't you?" -- Garrison Keillor
+He that is giddy thinks the world turns round.  -- William Shakespeare, "The Taming of the Shrew"
+All things have already been said, but since no one listens, one must always start again.  -- A. Gide
+What I wouldn't give for just one precedented time.  -- South Park, "Post COVID: The Return of COVID"
+Worst Month of 1981 for Downhill Skiing: August.  The lift lines are the shortest, though.  -- Steve Rubenstein
+Is that forbidden fruit keto-friendly?  Or is it double-forbidden?  -- Oglaf, "Strongly-Discouraged Fruit"
