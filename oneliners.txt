@@ -162,7 +162,7 @@ Why is it called tourist season if we can't shoot them?
 Trying is the first step to failure.  -- Homer Simpson
 You cannot have great men without lesser men.  -- me, justifying Toku
 If you're in it up to your ears, keep your mouth shut.
-Campus sidewalks never exist as the straightest distance between two points
+Campus sidewalks never exist as the straightest distance between two points.  -- M. M. Johnston
 www.arentyougettingtiredofthesestupiddomainnames.com
 How gullible are you?  Send me $30 for my home gullibility test today!
 Did you know they took gullible out of the dictionary?
@@ -224,7 +224,26 @@ You may use a calculator, the Bible, the Koran, the Torah, and the Book of Mormo
 I want tofu poofs!!!  -- me
 We should be worrying about health care and the economy, not whether the president had sex with some Secret Service agents.  -- The Onion
 Documentation is like sex.  When it's good, it's very good, and when it's bad, it's beetter than nothing.
+# Haiku error messages from https://gnu.org/fun/jokes/error-haiku.html
+A file that big? / It might be very useful / But now it is gone
 Yesterday it worked / Today it is not working / Windows is like that
+Stay the patient course / Of little worth is your ire / The network is down
+Three things are certain: / Death, taxes, and lost data / Guess which has occurred
+You step in the stream / But the water has moved on / This page is not here
+Out of memory / We wish to hold the whole sky / But we never will
+Having been erased / The document you're seeking / Must now be retyped
+Rather than a beep / Or a rude error message / These words: "File not found"
+Serious error / All shortcuts have disappeared / Screen. Mind. Both are blank.
+The web site you seek / Cannot be located but / Endless more exist
+Chaos reigns within / Reflect, repent, and reboot / Order shall return
+ABORTED EFFORT / Close all that you have / You ask way too much
+First snow, then silence / This thousand dollar screen dies / So beautifully
+With searching comes loss / And the presence of absence: / "My Novel" not found
+The Tao that is seen / Is not the true Tao, until / You bring fresh toner
+Windows NT crashed / I am the Blue Screen of Death / No one hears your screams
+A crash reduces / Your expensive computer / To a simple stone
+Error messages / Cannot completely convey / We now know shared loss
+# end error message haiku
 Very faintly.  The name rings a triangle.  -- me
 Chain letters are like chain smoking:  _you_ may enjoy it, but it pisses off everyone around you.  -- me
 Nostalgia isn't what it used to be.
@@ -252,7 +271,6 @@ I can resist anything except temptation.  -- Rush
 No matter where you go, there you are.
 Sexuality shouldn't be about what's hip. It's about what's between the hips
 LIFE is a sexually transmitted disease, with a 100% mortality rate.
-The Tao that is seen / Is not the true Tao, until / You bring fresh toner
 Windows95 really does have preemptive Multitasking: it can boot and crash at the same time.
 There's an old proverb that says just about whatever you want it to.
 For a man to truly understand rejection, he must first be ignored by a cat.
@@ -496,7 +514,7 @@ I understand small business growth.  I was one.  -- George W. Bush
 The superfluous is very necessary.  -- Voltaire
 o/~ If you're quadriplegic and you know it, clap your hands... o/~
 We'll do what we darn well please, or we'll stop exporting Levis jeans to your younger generation.  -- rec.humor.funny
-Democracy proved it could thrive in Bosnia, where an impressive 103-percent voter turnout was reported   -- Dave Watson
+Democracy proved it could thrive in Bosnia, where an impressive 103-percent voter turnout was reported  -- Dave Watson
 I've already told you more than I know.
 A man of genius makes no mistakes.  His errors are volitional and are the portals of discovery.  -- James Joyce, Ulysses
 There are two ways to write error-free programs; only the third one works.
@@ -1549,7 +1567,7 @@ I Love the Flying Spaghetti Monster because he first loved me. Then he loved a l
 There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.  -- Martin Gardner
 Jealous: Unduly concerned about the preservation of that which can be lost only if not worth keeping.  -- Ambrose Bierce
 The human dream doesn't mean shit to a tree.  -- Jefferson Airplane
-Don't worry about people stealing your ideas.   If your ideas are any good, you'll have to ram them down people's throats.  -- Howard Aiken
+Don't worry about people stealing your ideas.  If your ideas are any good, you'll have to ram them down people's throats.  -- Howard Aiken
 Time flies like an arrow.  Fruit flies like a banana.  -- Groucho Marx
 I may be drunk, Miss, but in the morning I will be sober and you will still be ugly.  -- Winston Churchill
 Getting kicked out of the American Bar Association is liked getting kicked out of the Book-of-the-Month Club.  -- Melvin Belli
@@ -1609,7 +1627,7 @@ The great enemy of clear language is insincerity. When there is a gap between on
 Thanks to TV and for the convenience of TV, you can only be one of two kinds of human beings, either a liberal or a conservative.  -- Kurt Vonnegut
 You're a lapsed atheist, dear.  -- Monty Python
 It may be that our role on this planet is not to worship God but to create him. -- Arthur C. Clarke
-I've learned that you can tell a lot about a person by the way he or she handles these three things: a rainy day, lost luggage, and tangled Christmas tree lights.   -- Maya Angelou
+I've learned that you can tell a lot about a person by the way he or she handles these three things: a rainy day, lost luggage, and tangled Christmas tree lights.  -- Maya Angelou
 Do you know why I think George W. Bush is so pissed off at Arabs?  They brought us algebra.  Also the numbers we use, including a symbol for nothing, which Europeans had never had before.  You think Arabs are dumb?  Try doing long division with Roman numerals. -- Kurt Vonnegut
 Fourth of July is a week.
 The advantage of a classical education is that it enables you to despise the wealth that it prevents you from achieving.  -- Russell Green
@@ -3293,7 +3311,7 @@ Anyone who believes that The Customer Is Always Right hasn't met enough customer
 'Martyrdom' is the only way a person can become famous without ability.  -- George Bernard Shaw
 Falling in love is a lot like dying.  You never get to do it enough to become good at it.
 What upsets me is not that you lied to me, but that from now on I can no longer believe you.  -- Nietzsche
-I used to think I could ducks with my mind but it turns out ducks & I just have very similar ideas about what stuff ducks should do.  -- @ieatanddrink
+I used to think I could control ducks with my mind but it turns out ducks & I just have very similar ideas about what stuff ducks should do.  -- @ieatanddrink
 Thank goodness modern convenience is a thing of the remote future.  -- Pogo
 We all agree on the necessity of compromise.  We just can't agree on when it's necessary to compromise.  -- Larry Wall
 If your sense of smell is good enough, popping bubble wrap gives you a tour of a bubble wrap factory.  -- XKCD #2458
@@ -3559,7 +3577,6 @@ Never trust a child farther than you can throw it.
 There are some people that if they don't know, you can't tell 'em.  -- Louis Armstrong
 The USA is so enormous, and so numerous are its schools, colleges and religious seminaries, many devoted to special religious beliefs ranging from the unorthodox to the dotty, that we can hardly wonder at its yielding a more bounteous harvest of gobbledegook than the rest of the world put together.  -- Sir Peter Medawar
 A man is like a rusty wheel on a rusty cart, He sings his song as he rattles along and then he falls apart.  -- Richard Thompson
-How can you think and hit at the same time?  -- Yogi Berra
 A diplomat is a person who can tell you to go to hell in such a way that you actually look forward to the trip.  -- Caskie Stinnett, "Out of the Red"
 Either one of us, by himself, is expendable.  Both of us are not.  -- Captain Kirk, "The Devil in the Dark"
 The problem with computers is that they do exactly what you tell them to.
@@ -3607,3 +3624,102 @@ All things have already been said, but since no one listens, one must always sta
 What I wouldn't give for just one precedented time.  -- South Park, "Post COVID: The Return of COVID"
 Worst Month of 1981 for Downhill Skiing: August.  The lift lines are the shortest, though.  -- Steve Rubenstein
 Is that forbidden fruit keto-friendly?  Or is it double-forbidden?  -- Oglaf, "Strongly-Discouraged Fruit"
+The East German pole-vault champion became the West German pole-vault champion.
+If you have extra time for introductions, after someone tells you their pronouns ask for their proverbs.
+You buttered your bread, now lie in it.
+It gets late early out there.  -- Yogi Berra
+Little known fact about Middle Earth: The Hobbits had a very sophisticated computer network!  It was a Tolkien Ring...
+One must get stabbed to learn the meaning of stabbing.  -- Existential Comics, "Dostoevsky and the Meaning of Suffering"
+There were no standards for success.  You're comparing me to the imaginary.  / And you're losing.  Badly!  -- Dilbert, 2022-01-25
+I was working harder than a one-eyed beaver in a knitting contest.  -- Dilbert, 2022-01-26
+You look like a turnip during duck season.  -- Dilbert, 2022-01-26
+It's not the men in my life, but the life in my men that counts.  -- Mae West
+Kids books... grownup books... that's just marketing.  Books are books!  -- Maurice Sendak
+Truth is much too complicated to allow anything but approximations.  -- John von Neumann
+What is simple is always wrong.  What is not is unusable.  -- Paul Valery
+Art is a lie that makes us realize truth.  -- Pablo Picasso
+I always avoid prophesying beforehand because it is much better to prophesy after the event has already taken place.  -- Winston Churchill
+Attendees at the geology conference were very disappointed by the hotel's continental breakfast.  -- me
+Accordion, n.: A bagpipe with pleats.
+If the human brain were so simple that we could understand it, we would be so simple we couldn't.
+LSD is a wonder drug.  It makes you wonder what's coming out of the wallpaper.  -- me
+You can run your mouth and I'll run my business. -- Louis Armstrong
+Science, my lad, has been built upon many errors; but they are errors which it was good to fall into, for they led to the truth.  -- Jules Verne
+Personally I keep trying to sell out, but the buyers aren't forthcoming.  -- Saturday Morning Breakfast Cereal, "Context"
+Roundly-condemned headlinese initiative shuttered indefinitely.  -- XKCD #2584
+$100 invested at 7% interest for 100 years will become $100,000, at which time it will be worth absolutely nothing.  -- Lazarus Long
+Your step will soil many countries.
+Year, n.: A period of three hundred and sixty-five disappointments.  -- Ambrose Bierce, "The Devil's Dictionary"
+It's pretty hard to tell what does bring happiness; poverty and wealth have both failed.  -- Kim Hubbard
+I didn't forget.  I just didn't remember.  -- Singham
+At first I was confused about why they wanted me to carry a Geiger counter here, but then it clicked.  -- XKCD #2607
+At first I didn't understand why they were warning me about all those birds sitting on the wire, but then I understood.  -- XKCD #2607
+I'll come to bed as soon as I've finished reading the whole Internet. -- Saturday Morning Breakfast Cereal, "Bed"
+When fits of creativity run strong, more than one programmer or writer has been known to abandon the desktop for the more spacious floor.  -- Fred Brooks
+Really, _every_ gathering is a family reunion.  -- XKCD #2608
+General notions are generally wrong.  -- Lady M. W. Montagu
+It is insane to me that cryptocurrencies are still a thing.  -- Bruce Schneier
+The worst part of having success is trying to find someone who is happy for you.  -- Bette Midler
+We must not confuse dissent with disloyalty.  --  Edward R. Murrow
+He was part of my dream of course---but then I was part of his dream too.  -- Lewis Carroll
+Correction does much, but encouragement does more.  -- Goethe
+In my life, I try and avoid things that are stupid and evil and make me look bad in comparison to somebody else---and Bitcoin does all three.  -- Charlie Munger, Berkshire Hathaway vice chairman
+I was going to say it's the least I can do, but it isn't.  -- Dilbert 2022-05-09
+Are  these  *special* brownies?  No, they're non-tokeable fudge.  -- me
+Every young boy should have a live octopus.  -- The Addams Family
+I put my octopus on one leg at a time, just like everybody else.
+If I said you had a beautiful body would you tell me where you put the body?  -- Oglaf, "Tusking"
+The floodgates of heaven were opened and the angels had nowhere to water-ski.  -- Oglaf, "Carp"
+My pronouns are meow/purr.
+The hardest part of generating random 16-bit numbers is rolling the d65536.  -- XKCD #2626
+If you drink a Belgian beer before performing Shakespeare your verse will be in lambic pentameter.  -- me
+A pessimist says the Klein bottle contains nothing.  An optimist says the Klein  bottle contains everything.  -- me
+FORTRAN is not a flower but a weed--it is hardy, occasionally blooms, and grows in every computer.  -- Alan Perlis
+Where there's a whiskey there's a way.
+He's such a Nazi that his favorite music is white noise.
+Overflow on /dev/null, please empty the bit bucket.
+The road is long but if it were any shorter it wouldn't go all the way.  -- Oglaf, "Molehills"
+Your prayer is important to us. Please keep your hands together until an operator becomes available.  -- Oglaf, "Inbound"
+The tortellini lives on land, turtllini live in the water.  -- Cat and Girl, "Pasta All the Way Down"
+Why fix an old bug if you can write three new ones in the same time?  -- David Kastrup
+With great power comes great responsibility. (Thats why I am a QRPer...)  -- Ashhar Farhan
+Our work has produced great answers.  Now someone just needs to figure out which questions they go with.  -- XKCD #2652
+We shall not cease from exploration / And the end of all our exploring / Will be to arrive where we started / And know the place for the first time.  -- T.S. Eliot, "Four Quartets"
+The muskrat is neither a rat nor the collective id-figure of aspiring techbro cargo cultists.  -- Cat and Girl, "Forbidden Knowledge"
+I didn't want to be a mason but I *love* those jars.  -- Cat and Girl, "Forbidden Knowledge"
+If you're not sure how awesome something is, measure it with an awesometer.
+Talk about what you know, demonstrate who you are.
+Cerboros: the three-headed wolf biting its three tails.
+A sloppy minute is made up of sixty sloppy seconds.  -- me
+When a sundae is in just the right position you can see a total eclipse of the spoon.  --  me
+How much more pathetic do I need to be before I start getting pity sex?  -- Oglaf
+And the lord spake, saying "Behold, now I have made grammars as  multitudinous as the stars.  Let all word orders  shine forth in their varied lexicons, and let every phoneme dwell in some mouth!"  --  Saturday Morning Breakfast Cereal, "Spake"
+One difference between liberals and conservatives is that liberals fix their mistakes to keep up with reality while conservatives fix their reality to keep up with their mistakes.  -- anonymous
+Now, everyone line up! / But what is a line? / What is a what? / What is? / What?  -- Existential comics, "Philosophy Bootcamp"
+If everything is defined by its monetary value, and monetary value relies on scarcity, of course we distrust the infinite.  -- Cat and Girl, "The Selling of Indulgences"
+The  corporate office is the cathedral, the stock market the priest, of a religion that rather than explain the unknown denies that  it exists.  -- Cat and Girl, "The Selling of Indulgences"
+Our company can be your one-stop shop for decentralization.  -- XKCD #2677
+Kids, I'm afraid this year wee can only afford Dungeons XOR Dragons.  -- Saturday Morning Breakfast Cereal, "Xor"
+We've never found a journey we couldn't turn into a commute.  -- Cat and Girl, "The Hero's Journey"
+Don't think of it as losing blood, think of it as gaining storage space in your veins.  -- Oglaf, "Claret"
+You can resolve any paradox by just misunderstanding what the point was.  -- Saturday Morning Breakfast Cereal, "False"
+It should be obvious that parodists cannot be prosecuted for telling a joke with a straight face.  -- Brief of The Onion as amicus curiae in support of the petitioner, Parma v. Riley
+Nothing is more thoroughly democratic than to have the high-and-mighty lampooned  and spoofed.  -- Justice J. Wilkinson, "Hustler Mag., Inc v. Falwell"
+The last thing we  need, the last thing the First Amendment will tolerate, is a law that lets public figures keep people from mocking  them.  -- Cardtoons,L.C. v. Major League Baseball Players Ass'n
+As much as I agree the real estate system could ues some improvements, introducing the ability for someone to hack my crypto wallet and take my house is not quite what I had in mind.  -- Web3 Is Going Just Great
+I'm here to free the princess you hold in that tower / Nobody's holding her, she has agoraphobia.  -- Oglaf, "Official Duties"
+We're in a culture of abundance and an economy of scarcity.  -- Cat and Girl, "Fireside Tales"
+Humans can't live in the present, like animals do.  Humans are always thinking about the future or the past.  So it's a veil of tears, man.  I don't know anything that's going to benefit me now, except love.  I just need an overwhelming amount of love.  And a nap.  Mostly a nap.  -- Townes Van Zandt
+Time goes, you say?  Ah no!  Time stays, *we* go.  -- Austin Dobson
+Class was a savings bank for priviledge.  A way to pass on access to money and to people with money even when money was gone.  -- Cat and Girl, "Rest-In-Peace Theater"
+Maybe the Old Testament should be called the Young Testament, because it's God's awkward period.  -- Saturday Morning Breakfast Cereal, "Brimstone"
+Just about every computer on the market today runs Unix, except the Mac (and nobody cares about it).  -- Bill Joy 6/21/85
+Eat the rich, the poor are tough and stringy.
+It is impossible for an optimist to be pleasantly surprised.
+Interfere?  Of course we should interfere!  Always do what you're best at, that's what I say.  -- Doctor Who
+There's a fine line between courage and foolishness.  Too bad it's not a fence.
+It does not matter if you fall down as long as you pick up something from the floor while you get up.
+Is our lab really good at finding cool microbes? Some preliminary data.  -- XKCD #2703
+Let the machine do the dirty work.  -- "Elements of Programming Style", Kernighan and Ritchie
+The trouble with a lot of self-made men is that they worship their creator.
+What do you call a boomerang that doesn't come back?  A stick.
