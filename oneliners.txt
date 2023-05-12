@@ -481,7 +481,7 @@ Capital punishment is our society's recognition of the sanctity of human life. -
 Life stinks, and don't get me started on the terrible sequel...  -- TIW
 goto, let us go down, and there confound their language.  -- Genesis 11:7
 As is all too frequently the case... Kant succeeds in being technical without being precise.  -- Henry E. Allison
-(Okay, reinventing the wheel and telling venture capitolists and the stock market that wheels are the next big thing.)  -- Julian Lighton
+(Okay, reinventing the wheel and telling venture capitalists and the stock market that wheels are the next big thing.)  -- Julian Lighton
 TV is chewing gum for the eyes.  -- Frank Lloyd Wright
 One of the main causes of the fall of the Roman Empire was that, lacking zero, they had no way to indicate successful termination of their C programs.  -- Robert Firth
 Very few profundities can be expressed in less than 80 characters.
@@ -3746,3 +3746,13 @@ All I want is a warm bed and a kind word and unlimited power.  -- Ashleigh Brill
 Everything is worth precisely as much as a belch, the difference being that a belch is more satisfying.  -- Ingmar Bergman
 I have the simplest tastes.  I am always satisfied with the best.  -- Oscar Wilde
 I have a very small mind and must live with it.  -- Edsger W. Dijkstra
+Premillennial Christians believe the Second Coming is forthcoming.
+Like asking Michael Collins if he remembers where he watched the first lunar landing.
+I remember when there were only two rules: the law of gravity and no backsies.  Then they added the five second rule, which the first two rules kind of made necessary.  -- Cat and Girl, "Get a Complex!"
+[Maturity consists in the discovery that] there comes a critical moment where everything is reversed, after which the point becomes to understand more and more that there is something which cannot be understood.  -- Soren Kierkegaard
+Why a man would want a wife is a big mystery to some people.  Why a man would want *two* wives is a bigamystery.
+If you get writers' block, consider switching from a mutex to a lock-free algorithm.
+In table tennis, whoever gets to 21 points first wins.  That's how it once was in baseball, whoever got 21 runs first won.
+We are all time travelers, journeying at one hour per hour.  -- me
+Why are dad jokes so terrible?  Because they're told by a groan-up!
+If clear thinking created sparks, we could safely store dynamite in James Watt's office.  -- Wayne Shannon
