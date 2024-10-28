@@ -1609,7 +1609,7 @@ There is no reciprocity. Men love women, women love children, children love hams
 Nothing endures but change.  -- Heraclitus
 To achieve the impossible dream, try going to sleep.  -- Joan Klempner
 Every time I try to solve a complex math problem, my breasts get in the way.  -- The Onion
-The trouble with fighting for human freedom is that one spends most of one's time defending scoundrels. For it is against scoundrels that oppressive laws are first aimed, and oppression must be stopped at the beginning if it is to be stopped at all.  -- HL Mencken
+The trouble with fighting for human freedom is that one spends most of one's time defending scoundrels. For it is against scoundrels that oppressive laws are first aimed, and oppression must be stopped at the beginning if it is to be stopped at all.  -- H. L. Mencken
 Americans will put up with anything provided it doesn't block traffic.  -- Dan Rather
 The future is much like the present, only longer.  -- Dan Quisenberry
 Ability will never catch up with the demand for it.  -- Malcolm Forbes
@@ -3805,3 +3805,92 @@ What's the deepest clothing in the world?  The Mariana Trench Coat.
 Hey baby, I don't believe in causation but I believe the two of us could be in constant conjunction. / I already rejected you like five minutes ago. / I don't let past results discourage me.  -- David Hume, Existential Comics, "Philosophical Pickup Lines"
 Oh no, I wasn't being rude!  I'm just high status in our culture and thus exempted from a variety of behavioral norms.  -- Saturday Morning Breakfast Cereal, "Norms"
 Power, n: The only narcotic regulated by the SEC instead of the FDA.
+Area man spends weekend trash-talking socialism and labor unions
+The New England Journal of Medicine reports that 9 out of 10 doctors agree that 1 out of 10 doctors is an idiot.
+Perl is designed to give you several ways to do anything, so consider picking the most readable one.  -- Larry Wall
+The illegal we do immediately.  The unconstitutional takes a little longer.  -- Henry Kissinger
+There are two types of Linux developers - those who can spell, and those who can't.  There is a constant pitched battle between the two.  -- comp.os.linux.announce
+Klein bottle manufacturing executive accused of insider trading.
+Love conquers all but then struggles to administer its territories.  -- Oglaf, "Bishop of the Love God"
+We value the past most when the future looks bleakest.  -- Cat and Girl, "This is Just an Advertising Sandwich"
+I'm not part of history.  I'm more a part of the mystery.  -- Sun Ra
+People are very flexible and learn to adjust to strange surroundings--they can become accustomed to read Lisp and Fortran programs, for example.  -- Leon Sterling and Ehud Shapiro, Art of Prolog, MIT Press
+What happens when you walk across the carpet in winter and touch someone?  The answer will shock you!
+How many "coming men" has one known!  Where on earth do they all go to?  -- Sir Arthur Wing Pinero
+Any time I misspell a word it's just because I have too much integrity to copy answers from the dictionary.  -- XKCD #2885
+Alliance, n.: In international politics, the union of two thieves who have their hands so deeply inserted in each other's pockets that they cannot separately plunder a third.  -- Ambrose Bierce, "The Devil's Dictionary"
+I couldn't remember when I had been so disappointed.  Except perhaps the time I found out that M&Ms really DO melt in your hand.  -- Peter Oakley
+There goes the good time that was had by all.  -- Bette Davis, remarking on a passing starlet
+Umberto Eco uses 50% less fuel and 30% less packaging than regular Umberto.  -- @rstevens
+Distinctive, adj.: A different color or shape than our competitors.
+We're all amazing if we find the right coaching and training.  -- Sam Daley-Harris
+The leading cause of dementia is being deposed.  -- The Daily Show
+The Taj Mahal is an old Indian burial ground.
+Not everything that is faced can be changed, but nothing can be changed until it is faced.  -- James Baldwin
+If the Little Mermaid's parents didn't want her to leave the water, why did they name her Ariel?
+Rule of Defactualization: Information deteriorates upward through bureaucracies.
+The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of misery.  -- Winston Churchill
+Beauty is only skin deep, unless you like muscles.  -- Oglaf, "Streaky Beef"
+This meeting could be an email. / This meeting could be a parade!  -- Cat and Girl, "Possibilities"
+This low-hanging fruit is a potato.  -- Cat and Girl, "Possibilities"
+If you want to be any kind of an artist, you have to be willing to piss people off.  -- James McMurtry
+Microsoft Windows is a successful OS, but it has a lot of pane points.
+I see where we are starting to pay some attention to our neighbors to the south.  We could never understand why Mexico wasn't just crazy about us; for we have always had their good will, and oil and minerals, at heart.  -- Will Rogers
+I feel like I deserve God's anger but that’s just vanity--I'm only mediocre at sinning.  -- Oglaf, "Wrath"
+When I play with my cat, who knows if she's not passing time with me more than I'm passing time with her.  -- Michel Montaigne
+"Gym" is so informal.  I attend a James.  -- Cat and Girl, "Gym for Serious People"
+Despite having eight legs, the octopus wasn't a very good soccer player.  -- me
+My favorite conspiracy theory is that anyone's competent enough to maintain a conspiracy.  -- Cat and Girl, "Wheels Within Wheels"
+Eventually most bargain hunters settle down to a more predictable life of bargain farming.  -- Oglaf, "Rugburn"
+I was the one that ate all the fortune cookies last night.  I was looking for an answer.  -- PostSecret
+Why is there baking soda all over the dance floor?  Because the DJ said it was time to drop the base.  -- me
+Absolution: not just a solution you put on your abs.  -- Oglaf, "Original Sin"
+You can't fuck all the hot guys, logistically, unless your standards are very high indeed.  -- Oglaf
+The hard part of radio is to tell which mike is on.  -- Woody Guthrie
+Sometimes I think I ain't nothing but an old piece of dirt walking.  -- Woody Guthrie
+Change the pen and change the ink / Change the way you talk and think / Change the tubes and change the tires / Change the things your heart desires / Change your makeup, change your curl / Change the ways of the changing world.  -- Woody Guthrie
+Any event which takes away the lives of human beings, I try to write a song about what caused it to happen and how we can all try to keep such a thing from happening again.  -- Woody Guthrie
+A song ain't nothing but a conversation fixed up to where yuo can talk it over and over without getting tired of it.  -- Woody Guthrie
+We finally got it fixed to where only the ones who could afford to pay, could afford to beat their taxes.  -- Woody Guthrie
+Plenty of rich folks want to fight.  Give them the guns.  -- Woody Guthrie
+I don't care how good your good old days was for you.  They're not good enough for me.  -- Woody Guthrie
+I got me sort of a one man religion.  My religion is so big, no matter who you are, you're in it, and no matter what you do you can't get out of it.  -- Woody Guthrie
+Breeding rabbits is a hare raising experience.
+Ye've also got to remember that ... respectable people do the most astonishin' things to preserve their respectability.  Thank God I'm not respectable.  -- Ruthven Campbell Todd
+The man who is always worrying whether or not his soul would be damned generally has a soul that isn't worth a damn.  -- Oliver Wendell Holmes
+Slow and steady wins the race, as long as nobody fast entered.  -- Oglaf, "Fashionably Late"
+Time is but the stream I go a-fishing in.  -- Henry David Thoreau
+A new fish hatchery exploit allows remote cod execution.  -- XKCD #2958
+Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.  -- XKCD #2958
+Cobalt's metal, hard and shining / Cobol's wordy and confining / KOBOLDS topple when you strike them / Don't feel bad, it's hard to like them.  -- The Roguelet's ABC
+Any philosophy that can be put "in a nutshell" belongs there.  -- Sydney J. Harris
+These two men touched at one point; namely, at astuteness.  If they had also met on the common ground of courage, they together would have done great things.  -- Alexandre Dumas, "Twenty Years After" page 453
+Van Roy's Law: Honesty is the best policy - there's less competition.
+A tornado that struck a chili pepper processing plant during an earthquake was rated 55,000 on the Richter-Fujita-Scoville scale.  -- XKCD #2965
+Mason's First Law of Synergism: The one day you'd sell your soul for something, souls are a glut.
+Blessings in disguise are okay but I prefer curses in cosplay.  -- Oglaf, "Flypaper"
+You found me, but are you happier than when your days were spent searching?  -- SMBC, the Tao of Waldo
+Nothing people buy because one day it will be worth money is ever worth money.  -- Cat and Girl, "Investment Advice"
+People will pay top dollar to replace their Rosebud.  -- Cat and Girl, "Investment Advice"
+I've seen the best toys of my generation / Left in the packaging / Made into decor.  -- Cat and Girl, "Investment Advice"
+12 years of a great dad is way better than 40 years of a shit dad.  -- Jane Breen, Story Corps
+Those who will be able to conquer software will be able to conquer the world. -- Tadahiro Sekimoto, president, NEC Corp.
+The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it.  -- Elbert Hubbard
+I don't think they could put him in a mental hospital.  On the other hand, if he were already in, I don't think they'd let him out.
+No one in this world... has ever lost money by underestimating the intelligence of the great masses of the plain people.  Nor has anyone ever lost public office thereby.  -- H. L. Mencken
+The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos.  -- H. L. Mencken
+It was morality that burned the books of the ancient sages, and morality that halted the free inquiry of the Golden Age and substituted for it the credulous imbecility of the Age of Faith.  It was a fixed moral code and a fixed theology which robbed the human race of a thousand years by wasting them upon alchemy, heretic-burning, witchcraft and sacerdotalism.  -- H. L. Mencken
+There is always a well-known solution to every human problem---neat, plausible, and wrong.  -- H. L. Mencken
+Civilization, in fact, grows more and more maudlin and hysterical; especially under democracy it tends to degenerate into a mere combat of crazes; the whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by menacing it with an endless series of hobgoblins, most of them imaginary.  -- H. L. Mencken
+The final test of truth is ridicule.  Very few dogmas have ever faced it and survived.  -- H. L. Mencken
+Honesty pays, but it doesn't seem to pay enough to suit some people.  -- F. M. Hubbard
+Juggernaut lest ye be jugged yourselves.  -- me
+Did you hear about the cheap pirate cruise?  Book now, it's on sail!  -- me
+What size vessel do pirates use to carry rum?  A galleon.  -- me
+What's the shortest distance a pirate ever traveled?  When they walked the Planck length.  -- me
+What does a pirate do when their computer doesn't work?  Rebooty.  -- me
+How do you invalidate a pirate patent?  With prior arrrt.  -- me
+Where do pirates keep records of their conquests?  In the arrrchives.  -- me
+Real computer scientists despise the idea of actual hardware.  Hardware has limitations, software doesn't.  It's a real shame that Turing machines are so poor at I/O.
+Why was it only wise men who brought baby Jesus gifts?  They could have included a myrrh maid.  -- me
+Until the lion learns to write, the hunter will be glorified in every story.  -- African proverb
