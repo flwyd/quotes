@@ -3951,6 +3951,7 @@ It's pretty hard to tell what does bring happiness; poverty and wealth have both
 I bought a purse in the Montana state capitol.  The store was called Helena Handbasket.
 Let me tell you the story of how exposition came to be.  -- Oglaf, "Plot Thickener"
 If God had intended Man to Smoke, He would have set him on Fire.
+<<<<<<< Updated upstream
 No man would listen to you talk if he didn't know it was his turn next.  -- E. W. Howe
 Revenge is a form of nostalgia.
 Aliens never visited earth because the reviews say it's only got one star.  -- me
@@ -3975,7 +3976,7 @@ In Nature there are neither rewards nor punishments, there are consequences.  --
 The postman always rings twice.  P. T. Barnum always rings thrice.  -- me
 Any word with at least 10 letters is easy to remember how to use.  -- Saturday Morning Breakfast Cereal, "Of"
 I like my women the way I like my programming languages (unsafe, difficult to understand, at least 20 years old)  -- @xsphi
-Some people say unicode is too confusing and prone to abuse, but I saw diacritics, combining marks and zero-width joiners build character.  -- @xsphi
+Some people say unicode is too confusing and prone to abuse, but I say diacritics, combining marks and zero-width joiners build character.  -- @xsphi
 Monogamy is the Western custom of one wife and hardly any mistresses.  -- H. H. Munro
 The problem with the future is that it keeps turning into the present.  -- Calvin and Hobbes
 There are ten or twenty basic truths, and life is the process of discovering them over and over and over.  -- David Nichols
@@ -3991,7 +3992,7 @@ Schapiro's Explanation: The grass is always greener on the other side -- but tha
 I would have put my wishes in an index fund.  -- Cat and Girl, "The Wish-Havers"
 I wish society would fall apart so I could use my bunker.  -- Cat and Girl, "The Wish-Havers"
 You have to pick a moment where you realize that you're not immortal.  -- Mike Pondsmith
-The universe does not have laws -- it has habits, and habits can be broken.
+The universe does not have laws---it has habits, and habits can be broken.
 I don't see how he can ever finish, if he doesn't begin.  -- Lewis Carrol, "Alice's Adventures in Wonderland"
 Software slows down at the same rate that hardware speeds up.  -- Ken Thompson
 My gut bacteria don't get a say when I go to Sizzler.  -- Cat and Girl, "Join the Axis of Evil"
@@ -4035,18 +4036,14 @@ Arroz by any other name would be rice.  -- me
 How does a snail get somewhere fast?  They ride an escargot bike.  -- me
 It's like getting a job as a prison guard because you enjoy people watching.  -- me
 Boston Pops, New York Pushes
-Every commercial airline flight starts with a safety meeting.
 You can't stop a mental epidemic.  It leaps from person to person across parsecs.  -- Frank Herbert, Dune Messiah
-There is no cure for birth and death other than to enjoy the interval.  -- George Santayana
-They will only cause the lower classes to move about needlessly.  -- The Duke of Wellington, on early steam railroads
 I went to a place to eat.  It said "BREAKFAST ANYTIME."  So I ordered French toast during the Renaissance.  -- Stephen Wright
 Live within your income, even if you have to borrow to do so.  -- Josh Billings
 In order to get through the mountains in the land of Honah Lee you must cross Puff Puff Pass.  -- me
 John McAfee has never been convicted of rape and murder, but---crucially---not in the same way that you or I have never been convicted of raper or murder.  -- Laurie Penny, "Four Days Trapped at Sea With Crypto's Nouveau Riche"
-How is the world ruled, and how do wars start?  Diplomats tell lies to journalists, and they believe what they read.  -- Karl Kraus, "Aphorisms and More Aphorisms"
 Whoa...I did a 'zcat /vmlinuz > /dev/audio' and I think I heard God...  -- mikecd on #Linux
 Hawaii is the ellipsis of states.  -- me
-The only way to keep you health is to eat what you don't want, drink what you don't like, and do what you'd rather not.  -- Mark Twain
+The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.  -- Mark Twain
 All astronomy students looking through a telescope are star pupils.  -- me
 I was an exchange student. / What country did you study in? / Oh, I stayed at home and majored in economics and studied markets.
 Somehow, it's always right now until it's later.  -- Calvin and Hobbes
@@ -4076,4 +4073,3 @@ A luthier tried seven different resins until he found one that made the guitar b
 What's a fun activity for a kitten birthday party?  Pouncy castle!
 A polymath is someone who's in a polycule so big they have to do math to keep track of who's dating who.  -- @valeriehalla
 Autocorrect is never Wong.
-A bird in the hand makes it awfully hard to blow your nose.
